@@ -5,23 +5,33 @@ web前端学习资源分享
 ##[前端基础面试题](https://zhuanlan.zhihu.com/p/28415923)
 ## [笔试题](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues)
 ## [2017前端面试题及答案总结|掘金技术征文](http://link.zhihu.com/?target=https%3A//juejin.im/post/59be99a0f265da0644289dde)
-## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9
 
-## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619)  
 ## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 
-## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
+## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/)  
+## [50道 CSS 基础面试题](http://web.jobbole.com/94152/?utm_source=group.jobbole.com&utm_medium=relatedArticles)
+## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276)  
 
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
-
-## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
-## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
-
-## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
-
+## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)   
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/)  
+## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
 
 
 ## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
+## 面试                                                                
+
+## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [微醺岁月](http://link.zhihu.com/?target=https%3A//github.com/jawil)
+
+## [http://yrq110.me/](http://link.zhihu.com/?target=http%3A//yrq110.me/)
+
+## [滴滴FE](http://link.zhihu.com/?target=https%3A//github.com/DDFE/DDFE-blog)
+
+## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
 ## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
 
@@ -159,12 +169,31 @@ CSS预加载：
 
 [使用mongo-express/adminMongo通过WEB管理MongoDB（可视化）](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/b6ea35eb4762)
 
+
+
+HTML5
+## [H5页面中尝试调起APP - qize - 博客园](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/zqzjs/p/7504236.html)
+## [HTML5 video blob](http://link.zhihu.com/?target=https%3A//www.xttblog.com/%3Fp%3D1587)
+## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
+## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/)  
+## [移动 H5 首屏秒开优化方案探讨](http://link.zhihu.com/?target=http%3A//blog.cnbang.net/tech/3477/)
+## [H5玩法知多少](http://link.zhihu.com/?target=https%3A//isux.tencent.com/h5-play-ways.html)  
 [小技巧|H5禁止手机虚拟键盘弹出](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/09/24/disable-the-phone-virtual-keyboard-up/)
+##[一起来看 HTML 5.2 中新的原生元素 <dialog>](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012894864)
+## [HTML5中手势原理分析与数学知识的实践](http://link.zhihu.com/?target=https%3A//github.com/xd-tayde/blog/blob/master/html5-touch-math.md)
+ 
+HTTP
+
+## [HTTP协议详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/li0803/archive/2008/11/03/1324746.html) 【基础】
+## [HTTP中的状态码](http://link.zhihu.com/?target=http%3A//alloween.top/2017/07/29/HTTP%25E4%25B8%25AD%25E7%259A%2584%25E7%258A%25B6%25E6%2580%2581%25E7%25A0%2581/)
+## [http协议缓存机制](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010690320)
+
+## [前端安全](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU0OTExNzYwNg%3D%3D%26mid%3D2247483770%26idx%3D1%26sn%3D4f2247fdf7e1de9d8c45539c09751ba4%26chksm%3Dfbb58ab3ccc203a50abf225bdf6db56d10f5b0030cb9f333b245ebb95f8c440673901f7d6c23%23rd)
+
+## [DNS域名解析解剖](https://zhuanlan.zhihu.com/p/28305778)
 
 ## ["天龙八步"细说浏览器输入URL后发生了什么](https://zhuanlan.zhihu.com/p/32370763?utm_source=wechat_session&amp;utm_medium=social)
-
-## [H5页面中尝试调起APP - qize - 博客园](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/zqzjs/p/7504236.html)
-
 
 ## [JavaScript深入系列](http://link.zhihu.com/?target=https%3A//github.com/mqyqingfeng/Blog)  【干货】 
 
@@ -182,9 +211,7 @@ CSS预加载：
 
 ## [React Redux 中间件思想遇见 Web Worker 的灵感](http://link.zhihu.com/?target=https%3A//juejin.im/post/5992c0366fb9a03c5e4426aa) 【干货】
 
-## [在 Vue.js 中实用任意 JavaScript 第三方库](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7939) 【干货】
 
-## [前端每周清单半年盘点之 Vue.js 篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59928d55518825486f1e8369) 【干货】
 
 ## [讲真，别再使用JWT了](http://link.zhihu.com/?target=http%3A//insights.thoughtworkers.org/do-not-use-jwt-anymore/) 【干货】
 
@@ -210,13 +237,9 @@ CSS预加载：
 
 ## [由返回上一页并刷新页面想到的](http://link.zhihu.com/?target=http%3A//www.haorooms.com/post/gobackprev_refresh)
 
-## [HTTP中的状态码](http://link.zhihu.com/?target=http%3A//alloween.top/2017/07/29/HTTP%25E4%25B8%25AD%25E7%259A%2584%25E7%258A%25B6%25E6%2580%2581%25E7%25A0%2581/)
 
-## [前端安全](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU0OTExNzYwNg%3D%3D%26mid%3D2247483770%26idx%3D1%26sn%3D4f2247fdf7e1de9d8c45539c09751ba4%26chksm%3Dfbb58ab3ccc203a50abf225bdf6db56d10f5b0030cb9f333b245ebb95f8c440673901f7d6c23%23rd)
 
-## [DNS域名解析解剖](https://zhuanlan.zhihu.com/p/28305778)
 
-## [深入理解ES6](http://link.zhihu.com/?target=https%3A//juejin.im/post/598e6eed6fb9a03c543ebe02)
 
 ## [blog](http://link.zhihu.com/?target=https%3A//github.com/Xing-Chuan/blog)
 
@@ -231,9 +254,6 @@ CSS预加载：
 
 ## [编写自己的代码库](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010225928)
 
-## [ES6常用新特性](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010596969)
-
-## [es7-decorator修饰器](http://link.zhihu.com/?target=http%3A//www.guofengxian.com/2017/08/11/es7-decorator%25E4%25BF%25AE%25E9%25A5%25B0%25E5%2599%25A8%25E8%25BF%2590%25E8%25A1%258C%25E7%258E%25AF%25E5%25A2%2583%25E6%2590%25AD%25E5%25BB%25BA%25E5%258F%258A%25E5%25AE%259E%25E8%25B7%25B5/)
 
 ## [小火柴的蓝色理想](http://link.zhihu.com/?target=http%3A//home.cnblogs.com/u/xiaohuochai/)
 
@@ -262,7 +282,10 @@ CSS预加载：
 
 ## [从移动端click到摇一摇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59741e6f6fb9a06bca0bd7d1)
 
-## [HTML5中手势原理分析与数学知识的实践](http://link.zhihu.com/?target=https%3A//github.com/xd-tayde/blog/blob/master/html5-touch-math.md)
+
+## [在 Vue.js 中实用任意 JavaScript 第三方库](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7939) 【干货】
+
+## [前端每周清单半年盘点之 Vue.js 篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59928d55518825486f1e8369) 【干货】
 
 ## [宇cccc](http://link.zhihu.com/?target=http%3A//www.jianshu.com/u/a03c0c4f5c88)
 
@@ -279,11 +302,15 @@ CSS预加载：
 ## [高质量的 React 相关文档和翻译](http://link.zhihu.com/?target=https%3A//github.com/react-guide)
 ## [点击水波纹，滑块](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6293352726308454571)
 
-## [HTTP协议详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/li0803/archive/2008/11/03/1324746.html) 【基础】
 
 ## [原生JS实现最简单的图片懒加载](http://link.zhihu.com/?target=http%3A//axuebin.com/blog/2017/08/19/javascript-lazyload/%3Futm_source%3Dtuicool%26utm_medium%3Dreferral)
 
 ## 
+## [ES6常用新特性](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010596969)
+## [深入理解ES6](http://link.zhihu.com/?target=https%3A//juejin.im/post/598e6eed6fb9a03c543ebe02)
+
+## [es7-decorator修饰器](http://link.zhihu.com/?target=http%3A//www.guofengxian.com/2017/08/11/es7-decorator%25E4%25BF%25AE%25E9%25A5%25B0%25E5%2599%25A8%25E8%25BF%2590%25E8%25A1%258C%25E7%258E%25AF%25E5%25A2%2583%25E6%2590%25AD%25E5%25BB%25BA%25E5%258F%258A%25E5%25AE%259E%25E8%25B7%25B5/)
+
 
 ## [彻底搞懂 async & defer](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues/8)
 
@@ -360,7 +387,7 @@ CSS预加载：
 
 ## [CommonJS](http://link.zhihu.com/?target=http%3A//blog.csdn.net/qq_27626333/article/details/74344857)
 
-## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
+
 
 ## [链接文字理解 async/await](http://link.zhihu.com/?target=https%3A//juejin.im/post/596e142d5188254b532ce2da)
 
@@ -448,16 +475,15 @@ CSS预加载：
 
 ## [如何制作一个完美的全屏视频H5](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU0OTExNzYwNg%3D%3D%26mid%3D2247483736%26idx%3D1%26sn%3D58f78c41fb36996a6f8255454095bc66%26chksm%3Dfbb58a91ccc203876cfbf8a2f7ff03334dad0027d78002d63b4a2461a4b53c90e03fbd5aa7f4%26scene%3D0%26key%3D1be27594fc89b279f5984d9be1944fd804d78a6340fccc5a7c3539db275cbd9e7e58350b84ecbba15221756ba796b8f53a60216759f019aaa5447b637db8b995212dc9ad288afc4e92c0464637b88abb%26ascene%3D0%26uin%3DMjIxODIxNjA0MA%3D%3D%26devicetype%3DiMac%2520MacBookPro12%2C1%2520OSX%2520OSX%252010.11.6%2520build%2815G1004%29%26version%3D12010110%26nettype%3DWIFI%26fontScale%3D100%26pass_ticket%3DTF0DDsNPjig2m8CaC8KMtlBHOkI0E09bIxI2OdnmkisHZvWOlOoCBPbVACKyxIeu)
 
-## [移动 H5 首屏秒开优化方案探讨](http://link.zhihu.com/?target=http%3A//blog.cnbang.net/tech/3477/)
 
-## [http协议缓存机制](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010690320)
+
+
 
 ## [我的 Chrome 插件集](http://link.zhihu.com/?target=https%3A//www.w3ctrain.com/2016/10/16/my-chrome-extension/)
 
 ## [Chrome程序猿插件](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI4MTQyNDg3Mg%3D%3D%26mid%3D2247483970%26idx%3D1%26sn%3D1a9f532934c142872a5e0213d40e8468%26chksm%3Deba824c5dcdfadd3a49d77279c04c5f271f6ca477f6a5d5916b23a1b7ac7af71e9cb983c0835%23rd)
 
 
-## [H5玩法知多少](http://link.zhihu.com/?target=https%3A//isux.tencent.com/h5-play-ways.html) 【扫盲】
 
 ## [vue-vscode-snippets](http://link.zhihu.com/?target=https%3A//github.com/libin1991/vue-vscode-snippets) 【干货】
 
@@ -566,7 +592,7 @@ CSS预加载：
 
 ## [如何用 js 获取虚拟键盘高度？](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5MTA1MjAxMQ%3D%3D%26amp%3Bmid%3D2651226929%26amp%3Bidx%3D1%26amp%3Bsn%3D4587bf582dcb235e00592fc49b146632%26amp%3Bchksm%3Dbd495ab58a3ed3a348eafa262c28c6467acf50edaf255061e42e1c5dea28ba7a90fb5df43373%26amp%3Bmpshare%3D1%26amp%3Bscene%3D1%26amp%3Bsrcid%3D09072V1Wx5VN4duxj0e3MLfZ%23)
 
-## [HTML5 video blob](http://link.zhihu.com/?target=https%3A//www.xttblog.com/%3Fp%3D1587)
+
 
 ## [JavaScript的记忆函数真的可以提升性能吗？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59bce30e6fb9a00a424755e9)
 
@@ -579,17 +605,7 @@ CSS预加载：
 
 ## [网站可以一键变色吗？](https://zhuanlan.zhihu.com/p/29610065)
 
-##                                                                    面试
 
-## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
-
-## [微醺岁月](http://link.zhihu.com/?target=https%3A//github.com/jawil)
-
-## [http://yrq110.me/](http://link.zhihu.com/?target=http%3A//yrq110.me/)
-
-## [滴滴FE](http://link.zhihu.com/?target=https%3A//github.com/DDFE/DDFE-blog)
-
-## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
 ## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
 
@@ -677,7 +693,6 @@ CSS预加载：
 
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
 
-## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
 
 
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
@@ -1008,7 +1023,7 @@ CSS预加载：
 
 ## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
 
-## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+
 
 ## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
 
@@ -1040,7 +1055,7 @@ CSS预加载：
 
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
 
-## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
+
 
 ## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
 
@@ -1324,7 +1339,9 @@ CSS预加载：
 
 ## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
 
-## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+
+
+
 
 ## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
 
@@ -1473,7 +1490,6 @@ CSS预加载：
 
 ## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
 
-## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 
 ## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
 
@@ -3138,7 +3154,6 @@ Native：
 
 [跨域之由Request Method:OPTIONS初窥CORS](https://zhuanlan.zhihu.com/p/31935253)
 
-[一起来看 HTML 5.2 中新的原生元素 <dialog>](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012894864)
 
 [深入浅出 JavaScript 的Array.prototype.sort 排序算法](http://link.zhihu.com/?target=https%3A//hufangyun.com/2017/sort-array/)
 
