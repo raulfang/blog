@@ -27,8 +27,8 @@ web前端学习资源分享
 ## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/)  
 ## [50道 CSS 基础面试题](http://web.jobbole.com/94152/?utm_source=group.jobbole.com&utm_medium=relatedArticles)
 ## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9
-## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276)  
-
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276)  
+## [JavaScript 面试必须知道的 10 个概念]http://web.jobbole.com/92594/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 ## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)   
 ## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/)  
@@ -81,7 +81,6 @@ web前端学习资源分享
 ## [前端常见跨域解决方案（全）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011145364)## [为什么 call 比 apply 快？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c0e13b5188257e7a428a83)
 
 ## Layout
-
 ## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
 ## [整理个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 ## [[翻译] 理解 CSS 布局和块级格式上下文](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a322e856fb9a04519699bd7)
@@ -99,7 +98,7 @@ web前端学习资源分享
 ## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
 ## [移动端：页面->手淘互动动效的探索 - IT大咖说 - 大咖干货，不再错过](http://link.zhihu.com/?target=http%3A//www.itdks.com/dakashuo/detail/2199%23) 【扫盲】
 
-##浏览器
+## 浏览器
 ## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 
 ## [我的 Chrome 插件集](http://link.zhihu.com/?target=https%3A//www.w3ctrain.com/2016/10/16/my-chrome-extension/)
 ## [Chrome程序猿插件](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI4MTQyNDg3Mg%3D%3D%26mid%3D2247483970%26idx%3D1%26sn%3D1a9f532934c142872a5e0213d40e8468%26chksm%3Deba824c5dcdfadd3a49d77279c04c5f271f6ca477f6a5d5916b23a1b7ac7af71e9cb983c0835%23rd)
@@ -121,8 +120,8 @@ web前端学习资源分享
 ## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
 ## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
 
-## CSS：
-## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+    CSS：
+[你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
 [你不知道的CSS（一）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)
 
 [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
@@ -133,15 +132,15 @@ web前端学习资源分享
 
 [实现div毛玻璃背景 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a45a89051882574d23ca7d6)
 
-## [CSS3 Gradient_gradient, css3属性详解 教程_w3cplus](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/content/css3-gradient)渐变
+ [CSS3 Gradient_gradient, css3属性详解 教程_w3cplus](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/content/css3-gradient)渐变
 
-## [水墨寒的博客](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)你不知道的CSS
-##CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhihu.com/p/32205555)
+[水墨寒的博客](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)你不知道的CSS
+CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhihu.com/p/32205555)
 
-##【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
-##[巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
 【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
-## [史上最全面、最透彻的BFC原理剖析](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/BFC%25E5%258E%259F%25E7%2590%2586%25E5%2589%2596%25E6%259E%2590/README.md)
+[巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
+【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+ [史上最全面、最透彻的BFC原理剖析](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/BFC%25E5%258E%259F%25E7%2590%2586%25E5%2589%2596%25E6%259E%2590/README.md)
 
 
 
@@ -910,7 +909,7 @@ HTTP
 
 ## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
 
-## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+
 
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
 
@@ -1388,8 +1387,6 @@ HTTP
 [67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)[BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
 
 ## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
-
-## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 
 ## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
 
