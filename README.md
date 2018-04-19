@@ -11,6 +11,7 @@ web前端学习资源分享
 ## [每天10个前端知识点：杂技](http://link.zhihu.com/?target=https%3A//www.jianshu.com/p/f3d9382eae78)
 ## [个人分享--web前端学习资源分享 - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c1956f265da430a501f51%23comment)
 ## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27)
+## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
 
 ## [笔试题](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues)
 ## [2017前端面试题及答案总结|掘金技术征文](http://link.zhihu.com/?target=https%3A//juejin.im/post/59be99a0f265da0644289dde)
@@ -32,7 +33,7 @@ web前端学习资源分享
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 ## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)   
 ## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/)  
-## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
+
 
 ## [极简风格个人博客](http://link.zhihu.com/?target=http%3A//karma-hk.com%3A4011/%23/)
 ## [blog](http://link.zhihu.com/?target=https%3A//github.com/Xing-Chuan/blog)
@@ -224,7 +225,7 @@ HTTP
 
 
 ## JS必知必会
-## [avaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
+## [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
 ## [必备之常用正则表达式](http://link.zhihu.com/?target=http%3A//www.jeffjade.com/2017/07/13/123-useful-regular-expression/)
 ## [JavaScript中的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59748cbb6fb9a06bb21ae36d)
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
