@@ -11,6 +11,8 @@ web前端学习资源分享
 ## [每天10个前端知识点：杂技](http://link.zhihu.com/?target=https%3A//www.jianshu.com/p/f3d9382eae78)
 ## [个人分享--web前端学习资源分享 - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c1956f265da430a501f51%23comment)
 ## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27)
+## [在浏览器中输入一个url，敲击回车之后发生了啥](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/07/15/%25E5%259C%25A8%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E4%25B8%25AD%25E8%25BE%2593%25E5%2585%25A5%25E4%25B8%2580%25E4%25B8%25AAurl%25EF%25BC%258C%25E6%2595%25B2%25E5%2587%25BB%25E5%259B%259E%25E8%25BD%25A6%25E4%25B9%258B%25E5%2590%258E%25E5%258F%2591%25E7%2594%259F%25E4%25BA%2586%25E5%2595%25A5/)
+## [深入理解 JavaScript 数据双向绑定](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMjYyMzg3MA%3D%3D%26mid%3D2247484289%26idx%3D2%26sn%3De1d9664d24d7b44bcece7464318a8369%26chksm%3De82be290df5c6b86f08fa80a5b33e4a3d46daa1093290610d63b47f86f5bdd7d21151b91dd8f%26mpshare%3D1%26scene%3D1%26srcid%3D0729j5j6rb7i2Ugqp5Wei0kT%23rd)
 ## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
 
 ## [笔试题](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues)
@@ -24,8 +26,7 @@ web前端学习资源分享
 
 ## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
 
-
-## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/)  
+  
 ## [50道 CSS 基础面试题](http://web.jobbole.com/94152/?utm_source=group.jobbole.com&utm_medium=relatedArticles)
 ## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9
 ## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276)  
@@ -56,7 +57,7 @@ web前端学习资源分享
 
 ## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
 ## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
- 【扫盲】
+
 
 ## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
 ## [换个思路理解Javascript中的this](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010328752)
@@ -64,6 +65,7 @@ web前端学习资源分享
 ## [vue框架的基本原理](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010487690)
 
 ## [67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)
+
 
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
 ## [互联网大厂求职面经及总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ba66e8f265da065166e289)
@@ -419,8 +421,7 @@ HTTP
 
 ## [使用vue-cli工具构建的vue+webpack项目配置详解](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/08/01/%25E4%25BD%25BF%25E7%2594%25A8vue-cli%25E5%25B7%25A5%25E5%2585%25B7%25E6%259E%2584%25E5%25BB%25BA%25E7%259A%2584vue-webpack%25E9%25A1%25B9%25E7%259B%25AE%25E9%2585%258D%25E7%25BD%25AE%25E8%25AF%25A6%25E8%25A7%25A3/%23more)
 
-## [在浏览器中输入一个url，敲击回车之后发生了啥](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/07/15/%25E5%259C%25A8%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E4%25B8%25AD%25E8%25BE%2593%25E5%2585%25A5%25E4%25B8%2580%25E4%25B8%25AAurl%25EF%25BC%258C%25E6%2595%25B2%25E5%2587%25BB%25E5%259B%259E%25E8%25BD%25A6%25E4%25B9%258B%25E5%2590%258E%25E5%258F%2591%25E7%2594%259F%25E4%25BA%2586%25E5%2595%25A5/)
-## [深入理解 JavaScript 数据双向绑定](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMjYyMzg3MA%3D%3D%26mid%3D2247484289%26idx%3D2%26sn%3De1d9664d24d7b44bcece7464318a8369%26chksm%3De82be290df5c6b86f08fa80a5b33e4a3d46daa1093290610d63b47f86f5bdd7d21151b91dd8f%26mpshare%3D1%26scene%3D1%26srcid%3D0729j5j6rb7i2Ugqp5Wei0kT%23rd)
+
 
 ## Vue#
 ## [深刻理解Vue中的组件](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010527064)
