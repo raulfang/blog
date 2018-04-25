@@ -53,7 +53,7 @@ web前端学习资源分享
 ## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
 ## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
-
+## [使用原生JS封装Tap事件，解决移动端300ms延迟](http://link.zhihu.com/?target=https%3A//my.oschina.net/keysITer/blog/789824) 【一般】
 
 ## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
 ## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
@@ -327,7 +327,7 @@ HTTP
 
 
 
-## [使用原生JS封装Tap事件，解决移动端300ms延迟](http://link.zhihu.com/?target=https%3A//my.oschina.net/keysITer/blog/789824) 【一般】
+
 
 ## [从[] == ![] 看隐式强制转换机制](http://link.zhihu.com/?target=https%3A//juejin.im/post/5997c2a0518825243d1eec9a)
 
