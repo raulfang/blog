@@ -70,7 +70,7 @@ web前端学习资源分享
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
 ## [互联网大厂求职面经及总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ba66e8f265da065166e289)
 ## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
-
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
 ## [js的事件循环](http://link.zhihu.com/?target=https%3A//github.com/laizimo/zimo-article/issues/26)
 
 ## [25 个最基本的 JavaScript 面试问题及答案](http://link.zhihu.com/?target=http%3A//web.jobbole.com/92323/)
@@ -535,10 +535,7 @@ HTTP
 ## [vue-vscode-snippets](http://link.zhihu.com/?target=https%3A//github.com/libin1991/vue-vscode-snippets) 【干货】
 ## [链接文字History API & Location 对象](http://link.zhihu.com/?target=https%3A//github.com/hijiangtao/hijiangtao.github.io/blob/cc7f4a73a82cbd04021817502b9c60bb4ea8da8b/_posts/2017-08-20-History-API-and-Location-Object.md)
 
-## [白话原型和原型链](http://link.zhihu.com/?target=https%3A//juejin.im/post/599d69fc6fb9a0248f4a7b31)
-
-
-
+## 白话原型和原型链](http://link.zhihu.com/?target=https%3A//juejin.im/post/599d69fc6fb9a0248f4a7b31)
 ## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
 ## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
 
@@ -558,7 +555,6 @@ HTTP
 
 ## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/)
-
 ## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
 
 
@@ -599,7 +595,7 @@ HTTP
 
 
 
-## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
 
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
 
