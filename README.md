@@ -239,7 +239,7 @@ HTTP
 ## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
 ## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
 
-
+## [面试必备之JS继承方式总结](http://link.zhihu.com/?
 ## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
 ## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
 ## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
@@ -250,7 +250,7 @@ HTTP
 ## [javascript打怪升级--把业务逻辑当练习题做 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a39b2dcf265da431d3cd036)
 ## [JavaScript从反转数组到链表反转 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5962f251882573505129e5)
 ## [快速掌握JavaScript面试基础知识(二) | Fundebug博客](http://link.zhihu.com/?target=https%3A//blog.fundebug.com/2018/01/22/the-definitive-javascript-handbook-for-a-developer-interview-2/)
-## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
+target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
 
 ## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 
