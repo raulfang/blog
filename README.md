@@ -74,9 +74,9 @@ web前端学习资源分享
 ## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
 ## [js的事件循环](http://link.zhihu.com/?target=https%3A//github.com/laizimo/zimo-article/issues/26)
 
-## [25 个最基本的 JavaScript 面试问题及答案](http://link.zhihu.com/?target=http%3A//web.jobbole.com/92323/)
-## [移动 Web 开发问题和优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c4c9d85188254f58412d17)
 
+## [移动 Web 开发问题和优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c4c9d85188254f58412d17)
+## [25 个最基本的 JavaScript 面试问题及答案](http://link.zhihu.com/?target=http%3A//web.jobbole.com/92323/)
 ## [JS对象的深浅复制](http://link.zhihu.com/?target=https%3A//github.com/junhey/junhey.github.io/issues/2)
 ## [JavaScript——单例模式](http://link.zhihu.com/?target=https%3A//github.com/wuyuanlijie/Singleton_Pattern)
 ## [谈谈JS中的高级函数](http://link.zhihu.com/?target=https%3A//claiyre.github.io/2017/08/14/%25E8%25B0%2588%25E8%25B0%2588JS%25E4%25B8%25AD%25E7%259A%2584%25E9%25AB%2598%25E7%25BA%25A7%25E5%2587%25BD%25E6%2595%25B0/)
