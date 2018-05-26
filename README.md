@@ -21,7 +21,7 @@ web前端学习资源分享
 
 ## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619)  
 ## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
-## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
+
 ## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
 ## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 
