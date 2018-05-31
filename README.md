@@ -781,7 +781,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)
 
-## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
 
 ## [基于 vuejs 2.0 轻量级的 ui组件库](http://link.zhihu.com/?target=https%3A//github.com/hxlovexc/xui)
 
