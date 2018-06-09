@@ -1091,7 +1091,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 
-## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
+
 
 ## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
 
@@ -1206,11 +1206,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
 
 ## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
-
-
-
-
-
 
 
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
