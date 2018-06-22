@@ -209,7 +209,8 @@ HTML5
 ## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/)  
 ## [移动 H5 首屏秒开优化方案探讨](http://link.zhihu.com/?target=http%3A//blog.cnbang.net/tech/3477/)
 ## [H5玩法知多少](http://link.zhihu.com/?target=https%3A//isux.tencent.com/h5-play-ways.html)  
-[小技巧|H5禁止手机虚拟键盘弹出](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/09/24/disable-the-phone-virtual-keyboard-up/)
+**小技巧
+|H5禁止手机虚拟键盘弹出](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/09/24/disable-the-phone-virtual-keyboard-up/)
 ##[一起来看 HTML 5.2 中新的原生元素 <dialog>](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012894864)
 ## [HTML5中手势原理分析与数学知识的实践](http://link.zhihu.com/?target=https%3A//github.com/xd-tayde/blog/blob/master/html5-touch-math.md)
 ## [图片上传进阶](http://link.zhihu.com/?target=http%3A//jdc.jd.com/archives/4395)【跨域】 
