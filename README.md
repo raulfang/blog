@@ -218,7 +218,6 @@ HTML5
 ## [如何制作一个完美的全屏视频H5](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU0OTExNzYwNg%3D%3D%26mid%3D2247483736%26idx%3D1%26sn%3D58f78c41fb36996a6f8255454095bc66%26chksm%3Dfbb58a91ccc203876cfbf8a2f7ff03334dad0027d78002d63b4a2461a4b53c90e03fbd5aa7f4%26scene%3D0%26key%3D1be27594fc89b279f5984d9be1944fd804d78a6340fccc5a7c3539db275cbd9e7e58350b84ecbba15221756ba796b8f53a60216759f019aaa5447b637db8b995212dc9ad288afc4e92c0464637b88abb%26ascene%3D0%26uin%3DMjIxODIxNjA0MA%3D%3D%26devicetype%3DiMac%2520MacBookPro12%2C1%2520OSX%2520OSX%252010.11.6%2520build%2815G1004%29%26version%3D12010110%26nettype%3DWIFI%26fontScale%3D100%26pass_ticket%3DTF0DDsNPjig2m8CaC8KMtlBHOkI0E09bIxI2OdnmkisHZvWOlOoCBPbVACKyxIeu)
  
 HTTP
-
 ## [HTTP协议详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/li0803/archive/2008/11/03/1324746.html) 【基础】
 ## [HTTP中的状态码](http://link.zhihu.com/?target=http%3A//alloween.top/2017/07/29/HTTP%25E4%25B8%25AD%25E7%259A%2584%25E7%258A%25B6%25E6%2580%2581%25E7%25A0%2581/)
 ## [http协议缓存机制](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010690320)
@@ -310,7 +309,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 #数组
-
 
 ## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
 ## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
@@ -1023,7 +1021,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
-##                                                                          Vue：
+##    Vue：
 
 ## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
 
