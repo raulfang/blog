@@ -800,7 +800,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [Vuex2.0源码解析](https://zhuanlan.zhihu.com/p/29982815)
 
-##                                                                        Webpack
+##Webpack                                                                  
 
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
 
