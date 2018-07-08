@@ -97,7 +97,7 @@ web前端学习资源分享
 
 
 
-##[用css让一个容器水平垂直居中 - 最骚的就是你 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/libin-1/p/5869430.html)
+## [用css让一个容器水平垂直居中 - 最骚的就是你 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/libin-1/p/5869430.html)
 ## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
 ## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  【扫盲】
 ## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
@@ -114,7 +114,7 @@ web前端学习资源分享
 ##[浏览器中的图像识别 API](https://link.zhihu.com/?target=https%3A//qiutc.me/post/shape-detection-api.html)
 
 
-##CSS之调试
+## CSS之调试
 ## [小技巧|移动端网页调试神器Eruda使用技巧](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/10/16/erdua/)
 ## [H5页面中尝试调起APP - qize - 博客园](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/zqzjs/p/7504236.html)
 
@@ -127,8 +127,7 @@ web前端学习资源分享
 ## [从性能的角度看CSS选择器](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/09/15/20170915-css-performance-selector/)
 ## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
 ## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
-
-    CSS：
+ CSS：
 [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
 [你不知道的CSS（一）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)
 
@@ -150,7 +149,6 @@ CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhih
 [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
 【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
  [史上最全面、最透彻的BFC原理剖析](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/BFC%25E5%258E%259F%25E7%2590%2586%25E5%2589%2596%25E6%259E%2590/README.md)
-
 
 
 ## CSS之特效：
@@ -326,9 +324,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [EasyWebpack](http://link.zhihu.com/?target=http%3A//hubcarl.github.io/easywebpack/)  【干货】
 ## [记一次webpack打包优化](http://link.zhihu.com/?target=http%3A//varnull.cn/ji-yi-ci-webpackda-bao-you-hua/) 【干货】
-
-
-
 
 
 ## [从[] == ![] 看隐式强制转换机制](http://link.zhihu.com/?target=https%3A//juejin.im/post/5997c2a0518825243d1eec9a)
@@ -800,7 +795,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [Vuex2.0源码解析](https://zhuanlan.zhihu.com/p/29982815)
 
-##Webpack                                                                  
+## Webpack                                                                  
 
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
 
@@ -838,12 +833,10 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
 
 
-
-
 ## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
 
 ## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
-
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew)
 
 
 ## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
@@ -875,7 +868,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 
-##     面试                                                              
+##    面试                                                              
 
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
@@ -893,7 +886,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
 
-## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+ 【4星级】
 
 
 
