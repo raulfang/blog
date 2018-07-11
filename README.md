@@ -868,7 +868,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 
-##    面试                                                              
+##                                                             
 
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
