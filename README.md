@@ -42,7 +42,7 @@ web前端学习资源分享
 ## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
 
 
-##  博客 面试                                                                
+##  博客 VS面试                                                                
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
 ## [微醺岁月](http://link.zhihu.com/?target=https%3A//github.com/jawil)
@@ -303,11 +303,10 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [JavaScript的记忆函数真的可以提升性能吗？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59bce30e6fb9a00a424755e9)
 
 ## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
-## [使用 ES2017 中的 Async(异步) 函数 和 Await(等待)](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7980) 【扫盲】
+## [使用 ES2017 中的 Async(异步) 函数 和 Await(等待)](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7980)  
 
 
 #数组
-
 ## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
 ## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
 ## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce)  【干货】
