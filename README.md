@@ -42,7 +42,7 @@ web前端学习资源分享
 ## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
 
 
-##  博客 VS面试                                                                
+##  博客                                                                
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
 ## [微醺岁月](http://link.zhihu.com/?target=https%3A//github.com/jawil)
@@ -114,7 +114,7 @@ web前端学习资源分享
 ##[浏览器中的图像识别 API](https://link.zhihu.com/?target=https%3A//qiutc.me/post/shape-detection-api.html)
 
 
-## CSS之调试
+## CSS 调试
 ## [小技巧|移动端网页调试神器Eruda使用技巧](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/10/16/erdua/)
 ## [H5页面中尝试调起APP - qize - 博客园](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/zqzjs/p/7504236.html)
 
