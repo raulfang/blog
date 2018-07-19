@@ -25,9 +25,7 @@ web前端学习资源分享
 ## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
 ## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 
-## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
-
-  
+## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】  
 ## [50道 CSS 基础面试题](http://web.jobbole.com/94152/?utm_source=group.jobbole.com&utm_medium=relatedArticles)
 ## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9
 ## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276)  
@@ -48,13 +46,12 @@ web前端学习资源分享
 ## [微醺岁月](http://link.zhihu.com/?target=https%3A//github.com/jawil)
 
 ## [http://yrq110.me/](http://link.zhihu.com/?target=http%3A//yrq110.me/)
-
 ## [滴滴FE](http://link.zhihu.com/?target=https%3A//github.com/DDFE/DDFE-blog)
 
 ## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
 ## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
-## [使用原生JS封装Tap事件，解决移动端300ms延迟](http://link.zhihu.com/?target=https%3A//my.oschina.net/keysITer/blog/789824) 【一般】
+## [使用原生JS封装Tap事件，解决移动端300ms延迟](http://link.zhihu.com/?target=https%3A//my.oschina.net/keysITer/blog/789824) 
 
 ## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
 
