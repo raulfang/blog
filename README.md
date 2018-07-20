@@ -224,7 +224,7 @@ HTTP
 ## ["天龙八步"细说浏览器输入URL后发生了什么](https://zhuanlan.zhihu.com/p/32370763?utm_source=wechat_session&amp;utm_medium=social)
 
 
-## JS必知必会
+## JS必知必会点
 ## [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
 ## [必备之常用正则表达式](http://link.zhihu.com/?target=http%3A//www.jeffjade.com/2017/07/13/123-useful-regular-expression/)
 ## [JavaScript中的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59748cbb6fb9a06bb21ae36d)
@@ -303,7 +303,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [使用 ES2017 中的 Async(异步) 函数 和 Await(等待)](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7980)  
 
 
-#数组
+##数组
 ## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
 ## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
 ## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce)  【干货】
