@@ -1,7 +1,7 @@
 ## 大道至简
 web前端学习资源分享
 转载自：
-## [前端学习之路](http://link.zhihu.com/?target=https%3A//segmentfault.com/blog/weblive) 【干货】
+## [前端学习之路](http://link.zhihu.com/?target=https%3A//segmentfault.com/blog/weblive)  
 ## [前端基础面试题](https://zhuanlan.zhihu.com/p/28415923)
 
 ## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
@@ -120,18 +120,17 @@ web前端学习资源分享
 ##[深入CSS优先级](http://link.zhihu.com/?target=http%3A//ghmagical.com/article/page/id/ote3wHDxzIHS)
 ##[display的32种写法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012833458)
 ##[深入理解 CSS：字体度量、line-height 和 vertical-align](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3b592c6fb9a045263bc191)
-## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html)  
 ## [从性能的角度看CSS选择器](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/09/15/20170915-css-performance-selector/)
 ## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
 ## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
  CSS：
-[你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+[你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)  
 [你不知道的CSS（一）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)
 
 [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
 
 [你不知道的CSS（三）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/tr6bta)
-
 
 
 [实现div毛玻璃背景 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a45a89051882574d23ca7d6)
