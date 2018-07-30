@@ -132,7 +132,6 @@ web前端学习资源分享
 
 [你不知道的CSS（三）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/tr6bta)
 
-
 [实现div毛玻璃背景 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a45a89051882574d23ca7d6)
 [你以为 CSS3 只是个简单的布局？](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a446d19f265da43052eebcc)
 
@@ -153,9 +152,9 @@ CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhih
 ## [我脑中飘来飘去的css魔幻属性 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a1d6d1ff265da43070303d4)
 ## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
 ## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
-## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)  【干货】
+## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)   
 
-## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
+## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d)  
 ## [CSS 写作建议和性能优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9ca9c6fb9a00a6b6e7e09)
 ## [用CSS让你的文字更有文艺范](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/19/%25E7%2594%25A8CSS%25E8%25AE%25A9%25E4%25BD%25A0%25E7%259A%2584%25E6%2596%2587%25E5%25AD%2597%25E6%259B%25B4%25E6%2596%2587%25E8%2589%25BA/)
 
@@ -193,7 +192,7 @@ CSS预加载：
 [canvas烟花锦集](http://link.zhihu.com/?target=http%3A//www.bestvist.com/2018/01/15/canvas-fireworks/)
 ## [链接文字超多经典 canvas 实例，动态离子背景、移动炫彩小球、贪吃蛇、坦克大战](http://link.zhihu.com/?target=http%3A//www.lovebxm.com/2017/08/13/canvas/%23%25E5%25AE%2587%25E5%25AE%2599%25E8%25A1%258C%25E6%2598%259F%25E6%2597%258B%25E8%25BD%25AC%25E7%2589%25B9%25E6%2595%2588)
 
-HTML5
+HTML5 重点
 ## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
 ## [meta 标签大全](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8052)
 ## [HTML5 video blob](http://link.zhihu.com/?target=https%3A//www.xttblog.com/%3Fp%3D1587)
