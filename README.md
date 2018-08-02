@@ -32,6 +32,9 @@ web前端学习资源分享
 ## [JavaScript 面试必须知道的 10 个概念]http://web.jobbole.com/92594/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 ## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)   
+## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
 ## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/)  
 
 
@@ -598,6 +601,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
 
+ 
 
 
 ## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
@@ -872,9 +876,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
 
 
-
-
-
 ## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
 
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
@@ -887,7 +888,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
 
-## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
 
 ## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
 
@@ -896,13 +896,12 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  
 
 
-## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 
 
 ## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
 
 ## [zepto的tap点透问题](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6388106194552044344)
 
-## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
 
 
 
@@ -919,7 +918,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [margin-right右边距失效](http://link.zhihu.com/?target=http%3A//blog.cssforest.org/2017/06/21/margin-right%25E5%258F%25B3%25E8%25BE%25B9%25E8%25B7%259D%25E5%25A4%25B1%25E6%2595%2588.html)
 
-## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+
 
 ## [前端精读周刊](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly)
 
