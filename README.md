@@ -14,6 +14,7 @@ web前端学习资源分享
 ## [在浏览器中输入一个url，敲击回车之后发生了啥](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/07/15/%25E5%259C%25A8%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E4%25B8%25AD%25E8%25BE%2593%25E5%2585%25A5%25E4%25B8%2580%25E4%25B8%25AAurl%25EF%25BC%258C%25E6%2595%25B2%25E5%2587%25BB%25E5%259B%259E%25E8%25BD%25A6%25E4%25B9%258B%25E5%2590%258E%25E5%258F%2591%25E7%2594%259F%25E4%25BA%2586%25E5%2595%25A5/)
 
 ##移动开发
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 ## [移动 Web 开发问题和优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c4c9d85188254f58412d17)
 ## [深入理解 JavaScript 数据双向绑定](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMjYyMzg3MA%3D%3D%26mid%3D2247484289%26idx%3D2%26sn%3De1d9664d24d7b44bcece7464318a8369%26chksm%3De82be290df5c6b86f08fa80a5b33e4a3d46daa1093290610d63b47f86f5bdd7d21151b91dd8f%26mpshare%3D1%26scene%3D1%26srcid%3D0729j5j6rb7i2Ugqp5Wei0kT%23rd)
 ## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
@@ -213,7 +214,9 @@ HTML5 重点
  
 ## [如何制作一个完美的全屏视频H5](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU0OTExNzYwNg%3D%3D%26mid%3D2247483736%26idx%3D1%26sn%3D58f78c41fb36996a6f8255454095bc66%26chksm%3Dfbb58a91ccc203876cfbf8a2f7ff03334dad0027d78002d63b4a2461a4b53c90e03fbd5aa7f4%26scene%3D0%26key%3D1be27594fc89b279f5984d9be1944fd804d78a6340fccc5a7c3539db275cbd9e7e58350b84ecbba15221756ba796b8f53a60216759f019aaa5447b637db8b995212dc9ad288afc4e92c0464637b88abb%26ascene%3D0%26uin%3DMjIxODIxNjA0MA%3D%3D%26devicetype%3DiMac%2520MacBookPro12%2C1%2520OSX%2520OSX%252010.11.6%2520build%2815G1004%29%26version%3D12010110%26nettype%3DWIFI%26fontScale%3D100%26pass_ticket%3DTF0DDsNPjig2m8CaC8KMtlBHOkI0E09bIxI2OdnmkisHZvWOlOoCBPbVACKyxIeu)
  
-HTTP
+
+## HTTP：
+[https://juejin.im/post/5a1d4e546fb9a0450f21af23](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a1d4e546fb9a0450f21af23)
 ## [HTTP协议详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/li0803/archive/2008/11/03/1324746.html) 【基础】
 ## [HTTP中的状态码](http://link.zhihu.com/?target=http%3A//alloween.top/2017/07/29/HTTP%25E4%25B8%25AD%25E7%259A%2584%25E7%258A%25B6%25E6%2580%2581%25E7%25A0%2581/)
 ## [http协议缓存机制](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010690320)
@@ -600,7 +603,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [notebook](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook)
 
 
-
 ## [聊聊Vue.js的template编译](http://link.zhihu.com/?target=https%3A//juejin.im/post/59da1c116fb9a00a4a4cf6dd)
 
 
@@ -807,7 +809,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 
-
 ## [用Nodejs开发命令行工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73c9df265da06670c5868)
 
 ## [你真的会用 Babel 吗?](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b9ffa8f265da06710d8e89)
@@ -823,8 +824,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
 
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
-
-
 
 
 
@@ -856,7 +855,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 
                                                            
-
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
 ## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
@@ -884,8 +882,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 
-
-
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 
 
 ## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
@@ -895,12 +891,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 
- 
-
-
-
 ## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
-
 
 
 
@@ -2060,6 +2051,7 @@ VUE
 
 ##                                                                       Webpack
 
+
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
@@ -2759,9 +2751,7 @@ VUE
 
 [再谈 CSS 预处理器 | EFE Tech](http://link.zhihu.com/?target=http%3A//efe.baidu.com/blog/revisiting-css-preprocessors/)
 
-## HTTP：
 
-[https://juejin.im/post/5a1d4e546fb9a0450f21af23](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a1d4e546fb9a0450f21af23)
 
 ## 小程序：
 
@@ -2948,7 +2938,7 @@ Native：
 
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
 
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+
 
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
