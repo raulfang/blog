@@ -1149,7 +1149,10 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 
-##  面试                                                            
+##  面试   
+## 算法：
+
+[你需要知道的算法之基础篇 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3603d2f265da4321541e95)
 
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
@@ -1801,6 +1804,7 @@ VUE
 
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 
+
 ##                                                                   面试
 
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
@@ -2288,6 +2292,7 @@ VUE
 ## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
 
 ## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
+## [前端精选文摘：BFC 神奇背后的原理](http://link.zhihu.com/?target=https%3A//www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
 
 ## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
 
@@ -2341,25 +2346,10 @@ VUE
 
 ## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
 
-## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
 
 ## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 
-## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
-
-## [vue组件之间的通信](http://link.zhihu.com/?target=http%3A//whutzkj.space/2017/08/05/vue%25E7%25BB%2584%25E4%25BB%25B6%25E4%25B9%258B%25E9%2597%25B4%25E7%259A%2584%25E9%2580%259A%25E4%25BF%25A1%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589/)
-
-## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
-
-## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
-
-## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
-
-## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
-
-## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
-
-## [vue 填坑系列总结——scoped](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a81205f265da249600e240) 【干货】
 
 
 
@@ -2530,7 +2520,7 @@ VUE
 ## [怎样拷贝数组（深/浅拷贝） · Issue #29 · wuxianqiang/exercises](http://link.zhihu.com/?target=https%3A//github.com/wuxianqiang/exercises/issues/29)
 
 
-## [前端精选文摘：BFC 神奇背后的原理](http://link.zhihu.com/?target=https%3A//www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
+
 
 [快速理解JavaScript中call和apply原理 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3a2036f265da430406c3fe)
 
@@ -2599,6 +2589,26 @@ VUE
 [PWA(Progressive Web App)入门系列：（三）PWA关键技术Manifest](http://link.zhihu.com/?target=http%3A//blog.csdn.net/lecepin/article/details/78911091)
 
 ## Vue：
+## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
+
+## [vue组件之间的通信](http://link.zhihu.com/?target=http%3A//whutzkj.space/2017/08/05/vue%25E7%25BB%2584%25E4%25BB%25B6%25E4%25B9%258B%25E9%2597%25B4%25E7%259A%2584%25E9%2580%259A%25E4%25BF%25A1%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589/)
+
+## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
+
+## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
+
+## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
+
+## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
+
+## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
+
+## [vue 填坑系列总结——scoped](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a81205f265da249600e240) 【干货】
+## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
+
+## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d) 
 ## [从Vue.js源码角度再看数据绑定](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abfa29f265da24734458c6)
 
 [VueJs 监听 window.resize 方法](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/erbingbing/p/6340930.html)
@@ -2797,9 +2807,7 @@ VUE
 
 [ikcamp/Functional-Light-JS](http://link.zhihu.com/?target=https%3A//github.com/ikcamp/Functional-Light-JS)
 
-## 算法：
 
-[你需要知道的算法之基础篇 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3603d2f265da4321541e95)
 
 ## Async/Await
 
@@ -2901,10 +2909,6 @@ VUE
 
 ## [子组件和父组件componentDidMount哪一个先执行 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a66c19df265da3e36416632)
 
-
-
-
-
 [理论联系实际：从零理解WebSocket的通信原理、协议格式、安全性-网页端IM开发/专项技术区 - 即时通讯开发者社区!](http://link.zhihu.com/?target=http%3A//www.52im.net/thread-1341-1-1.html)
 
 [如何继承Date对象？由一道题彻底弄懂JS继承。 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5c2193f265da3e377bfd83)
@@ -2954,9 +2958,7 @@ Native：
 
 ## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
 
-## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
-
-## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)                                                          
+                                                         
 
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
 
