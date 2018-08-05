@@ -1551,6 +1551,8 @@ VUE
 
 ## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
 
+## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
+
 ## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
 
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
@@ -1755,7 +1757,7 @@ VUE
 
 
 
-##                                                                       Webpack
+##     Webpack
 ## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
 ## [关于Promise](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/6bb01e492eec)
 
@@ -1789,7 +1791,6 @@ VUE
 
 ## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
 
-## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
 
 ## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
 
@@ -1807,7 +1808,6 @@ VUE
 
 ## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
 
-## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
 
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
 
@@ -2064,20 +2064,7 @@ VUE
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
 ## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
-
-## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
-
-## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
-
-## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
-
-## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
-
-## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
-
-## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
-
-## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
+ 
 
 ## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
 
@@ -2087,11 +2074,14 @@ VUE
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)   
 
 ## [jQuery源码学习总结](http://link.zhihu.com/?target=https%3A//github.com/ttian226/learn_jquery)
-##                                                                          Vue：
+##          Vue：
 
 ## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
 
 ## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
+## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
+
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
 
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 
@@ -2131,7 +2121,7 @@ VUE
 
 ## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
 
-##                                                                       Webpack
+##                           Webpack
 
 
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
@@ -2142,7 +2132,7 @@ VUE
 
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
-## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+ 
 
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
 
@@ -2380,7 +2370,7 @@ VUE
 
 ## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
-##                                                                          Vue：
+##            Vue：
 
 ## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
 
@@ -2389,10 +2379,6 @@ VUE
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 
 ## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
-
-
-
-## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 
 
 
