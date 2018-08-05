@@ -2230,7 +2230,7 @@ VUE
 
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 
-##                                                                   面试
+##                                        面试
 
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
@@ -2360,11 +2360,7 @@ VUE
 
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
 
-##                                                                         React：
-
-## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
-
-## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+ 
 
 ## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
 
@@ -2375,24 +2371,12 @@ VUE
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
 ## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
-
-## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
-
-## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
-
-## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
-
-## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
-
-## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
-
-## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
-
-## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
+ 
+ 
 
 ## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
 
-## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
+ 
 
 ## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
@@ -2601,7 +2585,7 @@ VUE
 
 [JSONP的原理与实现以及XSS,CSRF的相亲相爱](http://link.zhihu.com/?target=https%3A//www.jianshu.com/p/81efb4d188d7)
 
-## [关于 react 那些小知识点儿](http://link.zhihu.com/?target=https%3A//www.jianshu.com/p/4d2838ae7b29)
+ 
 
 
 
@@ -2645,47 +2629,14 @@ VUE
 
  
 
+ 
 
-## React：
+ 
 
-[一篇文章告诉你React里为什么不能用index作为key - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a31dda3f265da43052ea207)
-
-[【译】React 应用性能调优 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a289cc6f265da43346fcc8d)
-
-[写给新人的React快速入门手册 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a29f794f265da4310484a1b)
-
-[分享一个自己开发的 react拖拽排序组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2dfb6cf265da431440a540)
-
-[React + Canvas 像素风格取色器](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2cab4651882531b15b6cd7)
-
-[React中组件通信的几种方式 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2cbc57f265da431523d6de)
-
-[react和immutable偶遇的那些事 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3084555188252754104c63)
-
-[React全家桶构建一款Web音乐App实战（二）：字体图标制作及页面路由搭建 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3738876fb9a0450e763541)
- [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
-
-[React同构与极致的性能优化](http://link.zhihu.com/?target=https%3A//github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/high-performance-isomorphic-app.md)
-
-[基于react16 webpack3 搭建前端spa基础框架 react-router的4种异步加载方式](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a39c3446fb9a0450d1136b4)
-
-[redux v3.7.2源码解读与学习之 createStore(核心方法)](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a39c574f265da43085e29c5)
-
-[关于react我的理解与总结 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3a12cff265da43062ae964)
-
-[React源码解析(四):事件系统 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a0cf54ff265da43333df2c4)
-
-[谈谈React--componentWillReceiveProps的使用 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a39de3d6fb9a045154405ec)
-
-[从0开始实现 react-router](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012696920)
+ 
 
 [探索Vue高阶组件](http://link.zhihu.com/?target=http%3A//hcysun.me/2018/01/05/%25E6%258E%25A2%25E7%25B4%25A2Vue%25E9%25AB%2598%25E9%2598%25B6%25E7%25BB%2584%25E4%25BB%25B6/%3Ffrom%3Dtimeline%26isappinstalled%3D0%26nsukey%3DulcoyIdTEyC/FOnxHZldz4llVm5bwZnWirmI4Esr7F1YiayFi7JpdGL7KEZ9DvAJNSFdYoonL4jBVGhm5vJTT3uHhtZCpucjnGto71nf4L7oNu1r50pwTvKeqmKHqe3ATEE9ELSXKZPM3v%2520auk33Wx0pVbIntvyIPPTZVpnenMNdH53UC/XQDTLbxiBpddebzpoYIjT5GjStTkQ20KxmdQ%3D%3D)
 
-[从0实现一个tiny react(一)](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a56fe856fb9a01cbe653b15)
-
-[React Redux 与胖虎他妈](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5b38a4518825733366028f)
-
-[redux源码解析之五部曲(why:对外暴露了5个api)--第一部曲createStore.js - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5cc5d56fb9a01ca56075ba)
 
 ## Node：
 
