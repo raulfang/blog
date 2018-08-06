@@ -336,7 +336,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ##算法
 ## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
-## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues)  
 
 
 
@@ -345,7 +345,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [由返回上一页并刷新页面想到的](http://link.zhihu.com/?target=http%3A//www.haorooms.com/post/gobackprev_refresh)
 
-## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  
 ## [讲真，别再使用JWT了](http://link.zhihu.com/?target=http%3A//insights.thoughtworkers.org/do-not-use-jwt-anymore/) 【干货】
 ## [小火柴的蓝色理想](http://link.zhihu.com/?target=http%3A//home.cnblogs.com/u/xiaohuochai/)
 
