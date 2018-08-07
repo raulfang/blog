@@ -439,7 +439,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 
 ## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
-VUE
+ 
 ## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
 
 ## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
@@ -488,7 +488,17 @@ VUE
 
 ## [从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
 ## [使用vue-cli工具构建的vue+webpack项目配置详解](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/08/01/%25E4%25BD%25BF%25E7%2594%25A8vue-cli%25E5%25B7%25A5%25E5%2585%25B7%25E6%259E%2584%25E5%25BB%25BA%25E7%259A%2584vue-webpack%25E9%25A1%25B9%25E7%259B%25AE%25E9%2585%258D%25E7%25BD%25AE%25E8%25AF%25A6%25E8%25A7%25A3/%23more)
-                                                                       
+ ## Vue源码学习：
+
+[youngwind/blog](http://link.zhihu.com/?target=https%3A//github.com/youngwind/blog)
+
+[vue源码学习系列之十一：组件化原理探索（父子组件通信） · Issue #94 · youngwind/blog](http://link.zhihu.com/?target=https%3A//github.com/youngwind/blog/issues/94)
+
+[2018 我所了解的 Vue 知识大全 （二）](https://zhuanlan.zhihu.com/p/32883796?iam=f939c59cc51ff15c7499e2f77ac1804f&amp;utm_source=com.daimajia.gold&amp;utm_medium=social)
+
+[自己动手写一个 SimpleVue](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5eb5b6f265da3e591e4d3d)
+
+## [Vue SPA 打包优化实践 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3251ee6fb9a0450f21f6ac)【代码分割】                                                                      
 
 ## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
 
@@ -676,11 +686,6 @@ VUE
 ## [Vue的异步组件](http://link.zhihu.com/?target=https%3A//github.com/wu-kai/Blog/issues/4)
 
 
-
-
-
-
-
 ## [如何优雅地写js异步循环](http://link.zhihu.com/?target=https%3A//iammapping.com/write-js-async-loop-gracefully/)
 
 
@@ -759,7 +764,6 @@ VUE
 ## [聊聊Vue.js的template编译](http://link.zhihu.com/?target=https%3A//juejin.im/post/59da1c116fb9a00a4a4cf6dd)
 
 
-
 ## [setTimeout(fn, 0) 的作用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c25c936fb9a00a3f24e114)
 
 ## [发布-订阅模式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59bf4ff9f265da064b46e508)
@@ -774,9 +778,7 @@ VUE
 
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 
-
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
-
 
 
 ## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
@@ -970,7 +972,6 @@ VUE
 ## [React合成事件和DOM原生事件混用须知](http://link.zhihu.com/?target=https%3A//juejin.im/post/59db6e7af265da431f4a02ef)
 
 
-
 ## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
 
 ## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
@@ -1129,9 +1130,6 @@ VUE
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
  
 
-
-
-
 ## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
 
 ## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
@@ -1186,7 +1184,6 @@ VUE
 
 
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
-
 
 
 ## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
@@ -2376,6 +2373,13 @@ VUE
 
 ## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
 
+[Vue博客](http://link.zhihu.com/?target=https%3A//github.com/berwin/Blog/issues)
+
+[渐进式Express学习课程](http://link.zhihu.com/?target=https%3A//github.com/sunkuo/grow-to-express)
+
+[基于Vue的组织架构树组件 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a265ed551882531ba10cce8)
+
+
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 
 ## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
@@ -2408,11 +2412,6 @@ VUE
 
 [【小程序踩坑】 扫普通二维码调起小程序bug:码地址传递错误，传为历史地址](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a27b0c4f265da430d57e35e)
 
-[Vue博客](http://link.zhihu.com/?target=https%3A//github.com/berwin/Blog/issues)
-
-[渐进式Express学习课程](http://link.zhihu.com/?target=https%3A//github.com/sunkuo/grow-to-express)
-
-[基于Vue的组织架构树组件 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a265ed551882531ba10cce8)
 
 [vue-cli打包后的思索--代码优化](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012249890)【****】
 
@@ -2635,7 +2634,6 @@ VUE
 
 ##[Webpack3.0小案例躺坑资源处理、服务器启动和打包优化 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2a50a46fb9a0450b664d9d)
 
-## [Vue SPA 打包优化实践 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3251ee6fb9a0450f21f6ac)【代码分割】
 
 ##[简单易懂的 webpack 打包后 JS 的运行过程](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a23b130f265da432003101a)
 
@@ -2799,15 +2797,7 @@ VUE
 
 [[译文]Chrome63中开发者面板(Devtools)新增功能](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/9iaQrcyQs7QGzIvwtlTd2w)
 
-## Vue源码学习：
 
-[youngwind/blog](http://link.zhihu.com/?target=https%3A//github.com/youngwind/blog)
-
-[vue源码学习系列之十一：组件化原理探索（父子组件通信） · Issue #94 · youngwind/blog](http://link.zhihu.com/?target=https%3A//github.com/youngwind/blog/issues/94)
-
-[2018 我所了解的 Vue 知识大全 （二）](https://zhuanlan.zhihu.com/p/32883796?iam=f939c59cc51ff15c7499e2f77ac1804f&amp;utm_source=com.daimajia.gold&amp;utm_medium=social)
-
-[自己动手写一个 SimpleVue](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5eb5b6f265da3e591e4d3d)
 
 ## [如何实现VM框架中的数据绑定 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5eb1f351882573336610f8)
 
