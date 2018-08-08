@@ -1730,7 +1730,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
 
 ## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
-
+## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
 ## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
 
 ## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
@@ -2324,7 +2324,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 ## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
-## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
+
 
 
 
