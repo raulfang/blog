@@ -702,9 +702,8 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [React+node+redux 在线项目](http://link.zhihu.com/?target=https%3A//github.com/rongchanghai/justForYou)【react 扫盲】
 
-## [React使用小记](http://link.zhihu.com/?target=https%3A//mrzhang123.github.io/2017/08/13/reactsum/)
 
-## [带着三个问题一起深入浅出React高阶组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59818a485188255694568ff2)  【扫盲】
+
 
 ## [关于 React Router 4 的一切](http://link.zhihu.com/?target=https%3A//juejin.im/post/5995a2506fb9a0249975a1a4) 【扫盲】
 
