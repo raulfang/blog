@@ -10,7 +10,7 @@ web前端学习资源分享
 ## [前端实用的在线工具推荐系列](http://link.zhihu.com/?target=http%3A//www.jackpu.com/qian-duan-shi-yong-de-zai-xian-gong-ju-tui-jian/)
 ## [每天10个前端知识点：杂技](http://link.zhihu.com/?target=https%3A//www.jianshu.com/p/f3d9382eae78)
 ## [个人分享--web前端学习资源分享 - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c1956f265da430a501f51%23comment)
-## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27)
+## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
 ## [在浏览器中输入一个url，敲击回车之后发生了啥](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/07/15/%25E5%259C%25A8%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E4%25B8%25AD%25E8%25BE%2593%25E5%2585%25A5%25E4%25B8%2580%25E4%25B8%25AAurl%25EF%25BC%258C%25E6%2595%25B2%25E5%2587%25BB%25E5%259B%259E%25E8%25BD%25A6%25E4%25B9%258B%25E5%2590%258E%25E5%258F%2591%25E7%2594%259F%25E4%25BA%2586%25E5%2595%25A5/)
 
 ##移动开发
@@ -100,8 +100,6 @@ web前端学习资源分享
 ## [CSS Grid 网格布局](http://link.zhihu.com/?target=https%3A//juejin.im/post/5924db2e2f301e006b34ddd1)
 ## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
 ## [手机端页面自适应解决方案—rem布局进阶版（附源码示例）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/985d26b40199)
-
-
 
 ## [用css让一个容器水平垂直居中 - 最骚的就是你 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/libin-1/p/5869430.html)
 ## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
@@ -1104,7 +1102,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
 
-## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
+
 
 ## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
 
