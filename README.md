@@ -32,13 +32,7 @@ web前端学习资源分享
 ## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/)    
 ## [50道 CSS 基础面试题](http://web.jobbole.com/94152/?utm_source=group.jobbole.com&utm_medium=relatedArticles)
 ## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9
-## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276)  
-## [JavaScript 面试必须知道的 10 个概念]http://web.jobbole.com/92594/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
-## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
-## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)   
-## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
 
-## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
 ## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/)  
 
 
@@ -57,16 +51,14 @@ web前端学习资源分享
 
 ## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
-## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
-## [使用原生JS封装Tap事件，解决移动端300ms延迟](http://link.zhihu.com/?target=https%3A//my.oschina.net/keysITer/blog/789824) 
 
 ## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
 
 ## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
 
 
-## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
-## [换个思路理解Javascript中的this](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010328752)
+ 
+
 
 ## [vue框架的基本原理](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010487690)
 
@@ -264,7 +256,6 @@ HTML5 重点
 
 ## [ES6必知必会](http://link.zhihu.com/?target=http%3A//www.jianshu.com/u/4d7dd4c7e51d)
 
-## [谈谈jquery的事件名称和命名空间](http://link.zhihu.com/?target=http%3A//www.haorooms.com/post/jquery_namespaces_eventname)
 
 ## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
 
@@ -659,15 +650,6 @@ HTML5 重点
 
 ## [前端精读周刊](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly)
 
-## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
-
-
-## [有意思的clip-path](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cc619551882530f31a3349)
-## [后jQuery时代](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9cc12f265da066e1749dd)
-
-## [是时候和 jQuery 说拜拜了么？](http://link.zhihu.com/?target=http%3A//svgtrick.com/tricks/6c50b6e1296875a145cc61bcd39e0fa4)
-
-
 
 ## [https://github.com/microzz](http://link.zhihu.com/?target=https%3A//github.com/microzz)
 
@@ -682,8 +664,7 @@ HTML5 重点
 ## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
 
 ## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
-
-## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
+ 
 
 ## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
 
@@ -714,9 +695,7 @@ HTML5 重点
 ## [react-redux-router 一个完整项目解读](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/4c52c30193cc)
 
 ## [redux源码分析](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010310397)
-## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
-
-## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+ 
 
 ## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
 
@@ -730,8 +709,7 @@ HTML5 重点
 
 
 
-
-## [React合成事件和DOM原生事件混用须知](http://link.zhihu.com/?target=https%3A//juejin.im/post/59db6e7af265da431f4a02ef)
+ 
 
 
 ## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
@@ -863,7 +841,6 @@ HTML5 重点
 
 ## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
 
-## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
 
 ## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
 
@@ -875,7 +852,7 @@ HTML5 重点
 
 ## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
 
-## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+
 
 ## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
 
