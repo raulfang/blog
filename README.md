@@ -19,7 +19,7 @@ web前端学习资源分享
 ## [移动 Web 开发问题和优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c4c9d85188254f58412d17)
 ## [深入理解 JavaScript 数据双向绑定](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMjYyMzg3MA%3D%3D%26mid%3D2247484289%26idx%3D2%26sn%3De1d9664d24d7b44bcece7464318a8369%26chksm%3De82be290df5c6b86f08fa80a5b33e4a3d46daa1093290610d63b47f86f5bdd7d21151b91dd8f%26mpshare%3D1%26scene%3D1%26srcid%3D0729j5j6rb7i2Ugqp5Wei0kT%23rd)
 ## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
-
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
 ## [笔试题](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues)
 ## [2017前端面试题及答案总结|掘金技术征文](http://link.zhihu.com/?target=https%3A//juejin.im/post/59be99a0f265da0644289dde)
 
@@ -291,14 +291,11 @@ HTML5 重点
 
 ## [React+node+redux 在线项目](http://link.zhihu.com/?target=https%3A//github.com/rongchanghai/justForYou)【react 扫盲】
 
-
-
-
 ## [关于 React Router 4 的一切](http://link.zhihu.com/?target=https%3A//juejin.im/post/5995a2506fb9a0249975a1a4) 【扫盲】
 
 ## [你不知道的 React Router 4](https://zhuanlan.zhihu.com/p/28585911) 【干货】
 
-## [react开发vscode插件推荐](http://link.zhihu.com/?target=https%3A//github.com/sundaypig/blog/issues/2)
+ 
 
 <img src="https://pic1.zhimg.com/v2-c1408189a2bc78976b9627104e93141f_b.jpg" data-caption="" data-size="normal" data-rawwidth="582" data-rawheight="851" class="origin_image zh-lightbox-thumb" width="582" data-original="https://pic1.zhimg.com/v2-c1408189a2bc78976b9627104e93141f_r.jpg">
 
@@ -438,15 +435,7 @@ HTML5 重点
 ## [localStorage 还能这么用](http://link.zhihu.com/?target=https%3A//iammapping.com/the-other-ways-to-use-localstorage/)
 
 ## React：
-## [React 中的五种组件形式](http://link.zhihu.com/?target=https%3A//juejin.im/post/596d65d66fb9a06bae1e19e2)
-
-## [浅尝初试 React 技术栈](https://zhuanlan.zhihu.com/p/28241673)
-
-## [React 组件性能优化](http://link.zhihu.com/?target=https%3A//www.manster.me/%3Fp%3D656)
-
-## [react-redux-router 一个完整项目解读](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/4c52c30193cc)
-
-## [redux源码分析](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010310397)
+ 
  
 
 ## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
@@ -531,7 +520,7 @@ HTML5 重点
 
 ## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
-## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+
 
 ## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
 
@@ -680,7 +669,7 @@ HTML5 重点
 ## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
 
 
-## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+
 ## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
 
 ## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
