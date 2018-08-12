@@ -228,7 +228,6 @@ HTML5 重点
 
 ## [由返回上一页并刷新页面想到的](http://link.zhihu.com/?target=http%3A//www.haorooms.com/post/gobackprev_refresh)
 
-## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  
 ## [讲真，别再使用JWT了](http://link.zhihu.com/?target=http%3A//insights.thoughtworkers.org/do-not-use-jwt-anymore/) 【干货】
 ## [小火柴的蓝色理想](http://link.zhihu.com/?target=http%3A//home.cnblogs.com/u/xiaohuochai/)
 
@@ -312,8 +311,7 @@ HTML5 重点
 
 [再也不学AJAX了](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2df1076fb9a0450310073a)
 
-[Vue SPA 首屏加载优化实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a291092518825293b50366d)
-
+ 
 [记一次 Weex 的 iPhone X 适配](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a290ae46fb9a0450a673e82)
 
 [「大前端」Weex在达人店的一年实践 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2a730cf265da431f4afd35)
@@ -324,7 +322,6 @@ HTML5 重点
 
 ## 白话原型和原型链](http://link.zhihu.com/?target=https%3A//juejin.im/post/599d69fc6fb9a0248f4a7b31)
 ## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
-## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
 
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
 
