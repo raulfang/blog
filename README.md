@@ -207,6 +207,7 @@ HTML5 重点
 [Git提交历史的修改删除合并 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a30c1786fb9a045211eb218)
 
 ## HTTP：
+## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
 [你必须知道的HTTP基本概念 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2de1ba6fb9a04528466da5)
 
 ## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
@@ -288,10 +289,7 @@ HTML5 重点
 
 ## [npm 与 package.json 快速入门](http://link.zhihu.com/?target=http%3A//blog.csdn.net/u011240877/article/details/76582670)
 
-
-## [React+node+redux 在线项目](http://link.zhihu.com/?target=https%3A//github.com/rongchanghai/justForYou)【react 扫盲】
-
-## [关于 React Router 4 的一切](http://link.zhihu.com/?target=https%3A//juejin.im/post/5995a2506fb9a0249975a1a4) 【扫盲】
+ 
 
 ## [你不知道的 React Router 4](https://zhuanlan.zhihu.com/p/28585911) 【干货】
 
@@ -415,7 +413,7 @@ HTML5 重点
 
 ## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
 
-## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
+
 
 
 ## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
