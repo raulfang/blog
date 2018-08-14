@@ -1251,7 +1251,7 @@ HTML5 重点
 
 ## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
 
-## [Vue 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb)
+
 
 ## [编码过程中，我的常用网站工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8b53f6fb9a02480710150)
 
