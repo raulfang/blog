@@ -236,7 +236,6 @@ HTML5 重点
 
 ## [sunshine小小倩](http://link.zhihu.com/?target=https%3A//juejin.im/user/584d7a3e2f301e00572fb7fc)
 
-## [CommonJS](http://link.zhihu.com/?target=http%3A//blog.csdn.net/qq_27626333/article/details/74344857)
 
 
 
