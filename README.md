@@ -288,9 +288,6 @@ HTML5 重点
 
 ## [npm 与 package.json 快速入门](http://link.zhihu.com/?target=http%3A//blog.csdn.net/u011240877/article/details/76582670)
 
- 
-
-## [你不知道的 React Router 4](https://zhuanlan.zhihu.com/p/28585911) 【干货】
 
  
 
@@ -429,7 +426,6 @@ HTML5 重点
 
 ## React：
  
- 
 
 ## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
 
@@ -439,7 +435,7 @@ HTML5 重点
 
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
-## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
+
 
 
 
