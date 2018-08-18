@@ -1410,14 +1410,7 @@ HTML5 重点
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)   
 
 ## [jQuery源码学习总结](http://link.zhihu.com/?target=https%3A//github.com/ttian226/learn_jquery)
-##          Vue：
 
-## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
-
-## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
-## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
-
-## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
 
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 ## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
@@ -1436,9 +1429,7 @@ HTML5 重点
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
 
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
  
 
@@ -1924,7 +1915,7 @@ HTML5 重点
 [ES6和Babel你不知道的事儿](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012328326)
 
 
-[跟着Vue-cli来&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;学&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;并&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;改&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Webpack之 打包优化](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a337a1f6fb9a0452b4949e0)
+
 
 
 
@@ -1939,7 +1930,7 @@ HTML5 重点
 
 [css3实现多个元素依次显示 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2cb461f265da432840c9ef)
 
-[一看就懂的JS抽象语法树 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2bf2dd6fb9a044fd11b0d2)
+
 
 [网页内容复制粘贴(三种方案 兼容多种浏览器)](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2e75abf265da432c23ce2f)
 
@@ -2066,7 +2057,7 @@ HTML5 重点
 
 工具：
 
-[利用jsdoc为vue项目生成漂亮的文档 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5af6c26fb9a01ca713690b)
+
 
 [公众号的Markdown排版利器:Md2All - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a541d926fb9a01c975a195f)
 
@@ -2097,12 +2088,7 @@ HTML5 重点
 [Vue尝鲜快速、零配置的打包工具---parcel~ - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a596f87f265da3e2839f517)
 
 
-
-Native：
-
-[React Native 网络层分析](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a61641751882573443cc202)
-
-## [我们编写 React 组件的最佳实践](http://link.zhihu.com/?target=https%3A//blog.catwen.cn/2018/01/18/best-practices-for-writing-react-components/) 【*****】
+ 
 
 ## [[贝聊科技]网页端「应用跳转」技术实现演变 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a655597f265da3e4c07e689)
 
@@ -2130,3 +2116,11 @@ Native：
  
 ## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
  
+##          Vue：
+
+## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
+[跟着Vue-cli来&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;学&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;并&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;改&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Webpack之 打包优化](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a337a1f6fb9a0452b4949e0)
+## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
+## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
+[利用jsdoc为vue项目生成漂亮的文档 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5af6c26fb9a01ca713690b)
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
