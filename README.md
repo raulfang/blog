@@ -254,7 +254,7 @@ HTML5 重点
 
 ## [wen](http://link.zhihu.com/?target=http%3A//wenjunjiang.win/)
 
-## [ES6必知必会](http://link.zhihu.com/?target=http%3A//www.jianshu.com/u/4d7dd4c7e51d)
+
 
 
 ## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
@@ -275,7 +275,6 @@ HTML5 重点
 
 ## Vue
 
-## [如何优雅地写js异步循环](http://link.zhihu.com/?target=https%3A//iammapping.com/write-js-async-loop-gracefully/)
 
 
 ## [浅谈Flux架构及Redux实践](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006742449)
@@ -311,20 +310,14 @@ HTML5 重点
 ## [链接文字理解 async/await](http://link.zhihu.com/?target=https%3A//juejin.im/post/596e142d5188254b532ce2da)
 ## [链接文字History API & Location 对象](http://link.zhihu.com/?target=https%3A//github.com/hijiangtao/hijiangtao.github.io/blob/cc7f4a73a82cbd04021817502b9c60bb4ea8da8b/_posts/2017-08-20-History-API-and-Location-Object.md)
 
-## 白话原型和原型链](http://link.zhihu.com/?target=https%3A//juejin.im/post/599d69fc6fb9a0248f4a7b31)
+
 ## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
 
-## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
-
-
-## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
 
 ## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
 
 
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
-## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
 
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
 
@@ -461,11 +454,8 @@ HTML5 重点
 
 ## [Web 的现状：网页性能提升指南](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011213814)
 
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
-
-## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+ 
 
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
 
@@ -493,15 +483,6 @@ HTML5 重点
 
 
 ## [如何使用GitHub Pages在线加载静态网页](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/28/%25E5%25A6%2582%25E4%25BD%2595%25E4%25BD%25BF%25E7%2594%25A8GitHub-Pages%25E5%259C%25A8%25E7%25BA%25BF%25E5%258A%25A0%25E8%25BD%25BD%25E9%259D%2599%25E6%2580%2581%25E7%25BD%2591%25E9%25A1%25B5/)
-
-
-
-
-
-
-
-## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
-
                                                            
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
