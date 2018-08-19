@@ -60,7 +60,6 @@ web前端学习资源分享
  
 
 
-## [vue框架的基本原理](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010487690)
 
 ## [670个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)
  
@@ -583,9 +582,6 @@ HTML5 重点
 
 ## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
 
-## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
-
-## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)
 
 ## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
 
