@@ -494,7 +494,6 @@ HTML5 重点
 
  【4星级】
 
-## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
 
 ## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
 
