@@ -258,8 +258,6 @@ HTML5 重点
 
 ## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
 
-## [庖丁解牛React-Redux](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)
-## [像VUE一样写微信小程序-深入研究wepy框架](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/R2IlOzlA9Mb_XevDXAITdw)
 
 ## [面向初学者的高阶组件教程](https://zhuanlan.zhihu.com/p/27985956)
 
