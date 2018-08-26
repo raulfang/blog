@@ -238,10 +238,6 @@ HTML5 重点
 
 
 
-## ES6
-## [ES6常用新特性](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010596969)
-## [深入理解ES6](http://link.zhihu.com/?target=https%3A//juejin.im/post/598e6eed6fb9a03c543ebe02)
-## [es7-decorator修饰器](http://link.zhihu.com/?target=http%3A//www.guofengxian.com/2017/08/11/es7-decorator%25E4%25BF%25AE%25E9%25A5%25B0%25E5%2599%25A8%25E8%25BF%2590%25E8%25A1%258C%25E7%258E%25AF%25E5%25A2%2583%25E6%2590%25AD%25E5%25BB%25BA%25E5%258F%258A%25E5%25AE%259E%25E8%25B7%25B5/)
 
 
 ## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
