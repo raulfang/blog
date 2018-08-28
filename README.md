@@ -261,18 +261,7 @@ HTML5 重点
 
 ## [什么是cors跨域](http://link.zhihu.com/?target=http%3A//karma-hk.com%3A4011/%23/%3Fid%3D596ecbee8e46d45a474a4cdb)
 
-## [移动混合开发中的 JSBridge](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/I812Cr1_tLGrvIRb9jsg-A)
 
-## [H5与Native交互之JSBridge技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/599a58f6f265da247b4e756b)
-
-
-
-
-
-
-## [浅谈Flux架构及Redux实践](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006742449)
-
-## [babel知多少](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010411116)
 
  
 
