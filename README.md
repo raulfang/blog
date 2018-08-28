@@ -2053,8 +2053,6 @@ HTML5 重点
 
 
 
-## [ios微信下vue项目组件切换并自动播放音频的解决方案 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a65ad38518825732b19f595)
-
 ## parcel：
 
 [webpack 持久化缓存实践](https://zhuanlan.zhihu.com/p/32909176)
@@ -2063,8 +2061,6 @@ HTML5 重点
 
 [Vue尝鲜快速、零配置的打包工具---parcel~ - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a596f87f265da3e2839f517)
 
-
- 
 
 ## [[贝聊科技]网页端「应用跳转」技术实现演变 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a655597f265da3e4c07e689)
 
@@ -2083,8 +2079,6 @@ HTML5 重点
 
                                                          
  
-
-
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
 
