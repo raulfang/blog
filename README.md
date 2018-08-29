@@ -15,7 +15,7 @@ web前端学习资源分享
 ## [在浏览器中输入一个url，敲击回车之后发生了啥](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/07/15/%25E5%259C%25A8%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E4%25B8%25AD%25E8%25BE%2593%25E5%2585%25A5%25E4%25B8%2580%25E4%25B8%25AAurl%25EF%25BC%258C%25E6%2595%25B2%25E5%2587%25BB%25E5%259B%259E%25E8%25BD%25A6%25E4%25B9%258B%25E5%2590%258E%25E5%258F%2591%25E7%2594%259F%25E4%25BA%2586%25E5%2595%25A5/)
 
 ##移动开发
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+target=https%3A//github.com/libin1991/rx-hub)
 ## [移动 Web 开发问题和优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c4c9d85188254f58412d17)
 ## [深入理解 JavaScript 数据双向绑定](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMjYyMzg3MA%3D%3D%26mid%3D2247484289%26idx%3D2%26sn%3De1d9664d24d7b44bcece7464318a8369%26chksm%3De82be290df5c6b86f08fa80a5b33e4a3d46daa1093290610d63b47f86f5bdd7d21151b91dd8f%26mpshare%3D1%26scene%3D1%26srcid%3D0729j5j6rb7i2Ugqp5Wei0kT%23rd)
 ## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
