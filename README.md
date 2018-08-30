@@ -2060,7 +2060,7 @@ HTML5 重点
 
 [可视化拖拽 UI 布局之拖拽篇 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a667e286fb9a01c982cb474)
 
-## [用addRoutes实现动态路由](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/01/%25E7%2594%25A8addRoutes%25E5%25AE%259E%25E7%258E%25B0%25E5%258A%25A8%25E6%2580%2581%25E8%25B7%25AF%25E7%2594%25B1/)
+
 
 ## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
 
@@ -2068,7 +2068,6 @@ HTML5 重点
 
                                                          
  
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
 
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
