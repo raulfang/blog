@@ -252,22 +252,6 @@ HTML5 重点
 
 
 
-## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
-
-
-## [面向初学者的高阶组件教程](https://zhuanlan.zhihu.com/p/27985956)
-
-
-
-## [什么是cors跨域](http://link.zhihu.com/?target=http%3A//karma-hk.com%3A4011/%23/%3Fid%3D596ecbee8e46d45a474a4cdb)
-
-
-
- 
-
-## [webpack之loader和plugin简介](http://link.zhihu.com/?target=https%3A//juejin.im/post/5980752ef265da3e2e56e82e)
-
-## [npm 与 package.json 快速入门](http://link.zhihu.com/?target=http%3A//blog.csdn.net/u011240877/article/details/76582670)
 
 
  
