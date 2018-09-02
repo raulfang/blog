@@ -334,7 +334,8 @@ HTML5 重点
 ## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
 
 
-## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
+
+
 
 ## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
 
