@@ -249,13 +249,6 @@ HTML5 重点
 
 ## [wen](http://link.zhihu.com/?target=http%3A//wenjunjiang.win/)
 
-
-
-
-
-
- 
-
 <img src="https://pic1.zhimg.com/v2-c1408189a2bc78976b9627104e93141f_b.jpg" data-caption="" data-size="normal" data-rawwidth="582" data-rawheight="851" class="origin_image zh-lightbox-thumb" width="582" data-original="https://pic1.zhimg.com/v2-c1408189a2bc78976b9627104e93141f_r.jpg">
 
 
@@ -386,7 +379,7 @@ HTML5 重点
 
 ## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
 
-## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
 
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
