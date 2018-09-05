@@ -516,9 +516,7 @@ HTML5 重点
 
 ## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
 
-## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
 
-## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
 
 ## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
 
