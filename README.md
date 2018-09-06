@@ -256,7 +256,7 @@ HTML5 重点
 ## [抽奖刮刮卡](http://link.zhihu.com/?target=https%3A//juejin.im/post/59881ced51882525bd3562ab)
 [MutationObserver 监听DOM树变化](https://zhuanlan.zhihu.com/p/31543436)
 
-[vue+webpack+amaze-vue实现省市区联动选择组件 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2a8c985188250a5719a707)
+
 
 [再也不学AJAX了](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2df1076fb9a0450310073a)
 
