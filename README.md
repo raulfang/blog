@@ -536,11 +536,7 @@ HTML5 重点
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
 
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
-
-## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
 
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
 
