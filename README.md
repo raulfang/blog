@@ -228,7 +228,7 @@ HTML5 重点
 
 ## [由返回上一页并刷新页面想到的](http://link.zhihu.com/?target=http%3A//www.haorooms.com/post/gobackprev_refresh)
 
-## [讲真，别再使用JWT了](http://link.zhihu.com/?target=http%3A//insights.thoughtworkers.org/do-not-use-jwt-anymore/) 【干货】
+
 ## [小火柴的蓝色理想](http://link.zhihu.com/?target=http%3A//home.cnblogs.com/u/xiaohuochai/)
 
 ## [Jonathan Zhang](http://link.zhihu.com/?target=https%3A//github.com/TYRMars)
