@@ -371,9 +371,6 @@ HTML5 重点
 
  
 
-## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
-
-## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
 
 
 
