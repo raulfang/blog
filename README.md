@@ -27,7 +27,6 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 
 
-## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 
 ## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/)    
 ## [50道 CSS 基础面试题](http://web.jobbole.com/94152/?utm_source=group.jobbole.com&utm_medium=relatedArticles)
