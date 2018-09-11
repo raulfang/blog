@@ -310,17 +310,12 @@ HTML5 重点
 ## [前端性能优化之加载技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73ef75188253db70acdb5) 【5星级】
 
 
-
-
-
 ## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
 
 ## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
 
 ## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
-
-
 
 
 ## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
@@ -348,8 +343,6 @@ HTML5 重点
 ## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
 
 
-
-
 ## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
  
 
@@ -365,7 +358,7 @@ HTML5 重点
 
 ## [GitHub 开发的首个 Chrome Github代码查看](http://link.zhihu.com/?target=https%3A//github.com/jawil/blog/issues/28)
 
-## [localStorage 还能这么用](http://link.zhihu.com/?target=https%3A//iammapping.com/the-other-ways-to-use-localstorage/)
+
 
 
  
