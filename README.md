@@ -1967,7 +1967,6 @@ HTML5 重点
 
 [理论联系实际：从零理解WebSocket的通信原理、协议格式、安全性-网页端IM开发/专项技术区 - 即时通讯开发者社区!](http://link.zhihu.com/?target=http%3A//www.52im.net/thread-1341-1-1.html)
 
-[如何继承Date对象？由一道题彻底弄懂JS继承。 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5c2193f265da3e377bfd83)
 
 [用本地运行的demo快速入门跨域](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000009814558)
 
