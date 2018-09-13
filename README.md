@@ -92,7 +92,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [移动端：页面->手淘互动动效的探索 - IT大咖说 - 大咖干货，不再错过](http://link.zhihu.com/?target=http%3A//www.itdks.com/dakashuo/detail/2199%23) 【扫盲】
 [移动端-布局攻略](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/9e7e755ca281)
 
-[给一个元素同时绑定click和dbclick存在的问题](http://link.zhihu.com/?target=https%3A//github.com/lvzhenbang/article/blob/master/js/single_double.md)
+
 
 
 
