@@ -369,12 +369,6 @@ HTML5 重点
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
 
-
-
-
- 
-
-
 ## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
 
 ## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
@@ -399,9 +393,6 @@ HTML5 重点
  
 
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
-
-
-
 
 ## [你真的会用 Babel 吗?](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b9ffa8f265da06710d8e89)
 
@@ -546,7 +537,7 @@ HTML5 重点
 
 ## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
 
-## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+
 
 ## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
 ## [webpack](http://link.zhihu.com/?target=http%3A//blog.csdn.net/Wbiokr/article/category/6932942) 【扫盲】
