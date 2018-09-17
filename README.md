@@ -389,9 +389,6 @@ HTML5 重点
 
 ## [Web 的现状：网页性能提升指南](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011213814)
 
-
- 
-
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
 
 ## [你真的会用 Babel 吗?](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b9ffa8f265da06710d8e89)
@@ -444,12 +441,7 @@ HTML5 重点
 
 ## [zepto的tap点透问题](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6388106194552044344)
 
-
-
-
 ## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
-
-
 
 ## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
 
@@ -706,11 +698,7 @@ HTML5 重点
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
 
 
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
-
-## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
 
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
 
