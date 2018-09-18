@@ -257,7 +257,7 @@ HTML5 重点
 
 
 
-[再也不学AJAX了](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2df1076fb9a0450310073a)
+
 
  
 [记一次 Weex 的 iPhone X 适配](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a290ae46fb9a0450a673e82)
