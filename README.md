@@ -305,7 +305,7 @@ HTML5 重点
 
 ## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
 
-## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
 
 ## [前端性能优化之加载技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73ef75188253db70acdb5) 【5星级】
 
