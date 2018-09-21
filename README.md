@@ -324,7 +324,7 @@ HTML5 重点
 
 
 
-## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
+## [浏览器兼容性问题解决方案](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
 
 ## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
 
