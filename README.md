@@ -314,7 +314,7 @@ HTML5 重点
 
 ## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
 
-## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
+
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
 
 
