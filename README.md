@@ -271,12 +271,6 @@ HTML5 重点
 
 ## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
 
-
-
-
-
-
-
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
 
 ## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
@@ -295,7 +289,6 @@ HTML5 重点
 ## [https://github.com/yrq110/odds-and-ends](http://link.zhihu.com/?target=https%3A//github.com/yrq110/odds-and-ends)
 
 ## [notebook](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook)
-
 
 ## [setTimeout(fn, 0) 的作用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c25c936fb9a00a3f24e114)
 
@@ -348,10 +341,6 @@ HTML5 重点
 
 ## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
 
-
-
-
-
 ## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
 
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
@@ -369,9 +358,6 @@ HTML5 重点
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
 
-## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
-
-## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
 
 
 
