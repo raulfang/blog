@@ -55,11 +55,6 @@ target=https%3A//github.com/libin1991/rx-hub)
 
 ## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
 
-
- 
-
-
-
 ## [670个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)
  
 
@@ -91,10 +86,6 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
 ## [移动端：页面->手淘互动动效的探索 - IT大咖说 - 大咖干货，不再错过](http://link.zhihu.com/?target=http%3A//www.itdks.com/dakashuo/detail/2199%23) 【扫盲】
 [移动端-布局攻略](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/9e7e755ca281)
-
-
-
-
 
 ## 浏览器
 ## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 
@@ -133,7 +124,6 @@ CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhih
 [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
 【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
  [史上最全面、最透彻的BFC原理剖析](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/BFC%25E5%258E%259F%25E7%2590%2586%25E5%2589%2596%25E6%259E%2590/README.md)
-
 
 ## CSS之特效：
 ## [两行 CSS 代码实现图片任意颜色赋色技术](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/8080211.html)
@@ -234,11 +224,6 @@ HTML5 重点
 
 ## [sunshine小小倩](http://link.zhihu.com/?target=https%3A//juejin.im/user/584d7a3e2f301e00572fb7fc)
 
-
-
-
-
-
 ## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
 ## [彻底搞懂 async & defer](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues/8)
 
@@ -255,11 +240,6 @@ HTML5 重点
 ## [抽奖刮刮卡](http://link.zhihu.com/?target=https%3A//juejin.im/post/59881ced51882525bd3562ab)
 [MutationObserver 监听DOM树变化](https://zhuanlan.zhihu.com/p/31543436)
 
-
-
-
-
- 
 [记一次 Weex 的 iPhone X 适配](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a290ae46fb9a0450a673e82)
 
 [「大前端」Weex在达人店的一年实践 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2a730cf265da431f4afd35)
@@ -303,7 +283,7 @@ HTML5 重点
 ## [前端性能优化之加载技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73ef75188253db70acdb5) 【5星级】
 
 
-## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
+
 
 ## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
 
