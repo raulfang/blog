@@ -294,9 +294,6 @@ HTML5 重点
 ## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
 
 
-
-
-
 ## [浏览器兼容性问题解决方案](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
 
 ## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
@@ -316,7 +313,6 @@ HTML5 重点
 ## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
 
 
-## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
  
 
 ## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
