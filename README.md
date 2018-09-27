@@ -253,7 +253,7 @@ HTML5 重点
 
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
 
-## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/)
 ## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
 
