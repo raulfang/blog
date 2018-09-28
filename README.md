@@ -497,7 +497,7 @@ HTML5 重点
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
 
 
-## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
 
 
 
