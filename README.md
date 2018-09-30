@@ -50,7 +50,6 @@ target=https%3A//github.com/libin1991/rx-hub)
 
 ## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
-
 ## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
 
 ## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
@@ -61,8 +60,6 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [当你想监听DOM时，不尝试用一下 MutationObserver 吗？](http://link.zhihu.com/?target=https%3A//ljf0113.github.io/2017/08/12/why-not-try-to-use-MutationObserver/)
 ## [BetterScroll：可能是目前最好用的移动端滚动插件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59dc572c6fb9a0450f20e40e)
 ## [前端常见跨域解决方案（全）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011145364)## [为什么 call 比 apply 快？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c0e13b5188257e7a428a83)
-
- 
 ## [小技巧|移动端网页调试神器Eruda使用技巧](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/10/16/erdua/)
 ## [H5页面中尝试调起APP - qize - 博客园](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/zqzjs/p/7504236.html)
 
@@ -252,8 +249,6 @@ HTML5 重点
 ## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
 
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
-
-
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/)
 ## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
 
@@ -282,14 +277,7 @@ HTML5 重点
 
 ## [前端性能优化之加载技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73ef75188253db70acdb5) 【5星级】
 
-
-
-
-
-
-
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
-
 
 ## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
 
@@ -311,9 +299,6 @@ HTML5 重点
 ## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
 
 ## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
-
-
- 
 
 ## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
 
@@ -362,7 +347,7 @@ HTML5 重点
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
 
 
-## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
 
 
 ## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
