@@ -407,8 +407,6 @@ HTML5 重点
 
 ## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
 
-
-
 ## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
 
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
@@ -1257,7 +1255,7 @@ HTML5 重点
 
 ## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
 
-## [Vue 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb)
+
 
 ## [编码过程中，我的常用网站工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8b53f6fb9a02480710150)
 
