@@ -231,9 +231,6 @@ HTML5 重点
 
 <img src="https://pic1.zhimg.com/v2-c1408189a2bc78976b9627104e93141f_b.jpg" data-caption="" data-size="normal" data-rawwidth="582" data-rawheight="851" class="origin_image zh-lightbox-thumb" width="582" data-original="https://pic1.zhimg.com/v2-c1408189a2bc78976b9627104e93141f_r.jpg">
 
-
-
-## [抽奖刮刮卡](http://link.zhihu.com/?target=https%3A//juejin.im/post/59881ced51882525bd3562ab)
 [MutationObserver 监听DOM树变化](https://zhuanlan.zhihu.com/p/31543436)
 
 [记一次 Weex 的 iPhone X 适配](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a290ae46fb9a0450a673e82)
@@ -241,6 +238,7 @@ HTML5 重点
 [「大前端」Weex在达人店的一年实践 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2a730cf265da431f4afd35)
 
 
+## [抽奖刮刮卡](http://link.zhihu.com/?target=https%3A//juejin.im/post/59881ced51882525bd3562ab)
 ## [链接文字理解 async/await](http://link.zhihu.com/?target=https%3A//juejin.im/post/596e142d5188254b532ce2da)
 ## [链接文字History API & Location 对象](http://link.zhihu.com/?target=https%3A//github.com/hijiangtao/hijiangtao.github.io/blob/cc7f4a73a82cbd04021817502b9c60bb4ea8da8b/_posts/2017-08-20-History-API-and-Location-Object.md)
 
