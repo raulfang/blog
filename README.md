@@ -515,8 +515,7 @@ HTML5 重点
 
 
 
-## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
-## [读 Zepto 源码，分析 Zepto 源码](http://link.zhihu.com/?target=https%3A//github.com/yeyuqiudeng/reading-zepto)
+
 ## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
 
 ## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
@@ -1405,7 +1404,8 @@ HTML5 重点
 
 ## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
 
-
+## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+## [读 Zepto 源码，分析 Zepto 源码](http://link.zhihu.com/?target=https%3A//github.com/yeyuqiudeng/reading-zepto)
 
 
 [空对象动态添加属性（面试常考）返回JSON，曾经惨败的一道面试题 - 黄沙百战穿金甲，不破楼兰终不还。 - CSDN博客](http://link.zhihu.com/?target=http%3A//blog.csdn.net/libin_1/article/details/51438112)
