@@ -345,7 +345,7 @@ HTML5 重点
 
 
 
-## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
+## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 
 
 
 ## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
