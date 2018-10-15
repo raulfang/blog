@@ -196,7 +196,7 @@ HTML5 重点
 
 ## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
 [https://juejin.im/post/5a1d4e546fb9a0450f21af23](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a1d4e546fb9a0450f21af23)
-## [HTTP协议详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/li0803/archive/2008/11/03/1324746.html) 【基础】
+## [HTTP协议详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/li0803/archive/2008/11/03/1324746.html)  
 ## [HTTP中的状态码](http://link.zhihu.com/?target=http%3A//alloween.top/2017/07/29/HTTP%25E4%25B8%25AD%25E7%259A%2584%25E7%258A%25B6%25E6%2580%2581%25E7%25A0%2581/)
 ## [http协议缓存机制](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010690320)
 ## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
