@@ -77,11 +77,11 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [用css让一个容器水平垂直居中 - 最骚的就是你 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/libin-1/p/5869430.html)
 ## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
 ## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  
-## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 
 
 
 ## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
-## [移动端：页面->手淘互动动效的探索 - IT大咖说 - 大咖干货，不再错过](http://link.zhihu.com/?target=http%3A//www.itdks.com/dakashuo/detail/2199%23) 【扫盲】
+## [移动端：页面->手淘互动动效的探索 - IT大咖说 - 大咖干货，不再错过](http://link.zhihu.com/?target=http%3A//www.itdks.com/dakashuo/detail/2199%23)  
 [移动端-布局攻略](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/9e7e755ca281)
 
 ## 浏览器
