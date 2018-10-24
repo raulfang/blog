@@ -169,7 +169,6 @@ CSS预加载：
 ## [链接文字超多经典 canvas 实例，动态离子背景、移动炫彩小球、贪吃蛇、坦克大战](http://link.zhihu.com/?target=http%3A//www.lovebxm.com/2017/08/13/canvas/%23%25E5%25AE%2587%25E5%25AE%2599%25E8%25A1%258C%25E6%2598%259F%25E6%2597%258B%25E8%25BD%25AC%25E7%2589%25B9%25E6%2595%2588)
 
 HTML5 重点
-
 ## [meta 标签大全](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8052)
  [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 ## [HTML5 video blob](http://link.zhihu.com/?target=https%3A//www.xttblog.com/%3Fp%3D1587)
@@ -183,7 +182,7 @@ HTML5 重点
 |H5禁止手机虚拟键盘弹出](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/09/24/disable-the-phone-virtual-keyboard-up/)
 ##[一起来看 HTML 5.2 中新的原生元素 <dialog>](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012894864)
 ## [HTML5中手势原理分析与数学知识的实践](http://link.zhihu.com/?target=https%3A//github.com/xd-tayde/blog/blob/master/html5-touch-math.md)
-## [图片上传进阶](http://link.zhihu.com/?target=http%3A//jdc.jd.com/archives/4395)【跨域】 
+## [图片上传进阶](http://link.zhihu.com/?target=http%3A//jdc.jd.com/archives/4395)
  
 ## [如何制作一个完美的全屏视频H5](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU0OTExNzYwNg%3D%3D%26mid%3D2247483736%26idx%3D1%26sn%3D58f78c41fb36996a6f8255454095bc66%26chksm%3Dfbb58a91ccc203876cfbf8a2f7ff03334dad0027d78002d63b4a2461a4b53c90e03fbd5aa7f4%26scene%3D0%26key%3D1be27594fc89b279f5984d9be1944fd804d78a6340fccc5a7c3539db275cbd9e7e58350b84ecbba15221756ba796b8f53a60216759f019aaa5447b637db8b995212dc9ad288afc4e92c0464637b88abb%26ascene%3D0%26uin%3DMjIxODIxNjA0MA%3D%3D%26devicetype%3DiMac%2520MacBookPro12%2C1%2520OSX%2520OSX%252010.11.6%2520build%2815G1004%29%26version%3D12010110%26nettype%3DWIFI%26fontScale%3D100%26pass_ticket%3DTF0DDsNPjig2m8CaC8KMtlBHOkI0E09bIxI2OdnmkisHZvWOlOoCBPbVACKyxIeu)
  ##git
