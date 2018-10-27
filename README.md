@@ -19,7 +19,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [移动 Web 开发问题和优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c4c9d85188254f58412d17)
 ## [深入理解 JavaScript 数据双向绑定](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMjYyMzg3MA%3D%3D%26mid%3D2247484289%26idx%3D2%26sn%3De1d9664d24d7b44bcece7464318a8369%26chksm%3De82be290df5c6b86f08fa80a5b33e4a3d46daa1093290610d63b47f86f5bdd7d21151b91dd8f%26mpshare%3D1%26scene%3D1%26srcid%3D0729j5j6rb7i2Ugqp5Wei0kT%23rd)
 ## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
-## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html)  
 ## [笔试题](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues)
 ## [2017前端面试题及答案总结|掘金技术征文](http://link.zhihu.com/?target=https%3A//juejin.im/post/59be99a0f265da0644289dde)
 
