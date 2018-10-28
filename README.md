@@ -71,7 +71,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [CSS常见布局解决方案 - 王郝 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/qianduantuanzhang/p/8228418.html)
 ## [CSS经典布局之Sticky footer布局【绝对底部】](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a52d62a518825734c5b3c37)
 ## [CSS Grid 网格布局](http://link.zhihu.com/?target=https%3A//juejin.im/post/5924db2e2f301e006b34ddd1)
-## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
+## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  
 ## [手机端页面自适应解决方案—rem布局进阶版（附源码示例）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/985d26b40199)
 
 ## [用css让一个容器水平垂直居中 - 最骚的就是你 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/libin-1/p/5869430.html)
