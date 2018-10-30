@@ -93,7 +93,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 
 
 ## CSS：
-## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
+## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 
 ##[深入CSS优先级](http://link.zhihu.com/?target=http%3A//ghmagical.com/article/page/id/ote3wHDxzIHS)
 ##[display的32种写法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012833458)
 ##[深入理解 CSS：字体度量、line-height 和 vertical-align](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3b592c6fb9a045263bc191)
