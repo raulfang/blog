@@ -143,7 +143,7 @@ CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhih
 ##[更便捷的css处理方式-PostCSS - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a3d12596fb9a045263bc9b4)
 
 ##[不可思议的混合模式 background-blend-mode](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a435f006fb9a0452207c97b)
-## [编写自己的CSS3代码库(常用动画的实现](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010640099)） 【干货】
+## [编写自己的CSS3代码库(常用动画的实现](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010640099)）
 
 ## [七种实现左侧固定，右侧自适应](http://link.zhihu.com/?target=https%3A//zhuqingguang.github.io/2017/08/16/adapting-two-layout/)  
 ## [编写自己的代码库](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010225928)
