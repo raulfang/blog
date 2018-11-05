@@ -269,7 +269,7 @@ HTML5 重点
 
 ## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 
 
-## [前端性能优化之加载技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73ef75188253db70acdb5) 【5星级】
+## [前端性能优化之加载技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73ef75188253db70acdb5) 
 
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
 
