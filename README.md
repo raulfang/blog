@@ -303,7 +303,7 @@ HTML5 重点
 ## [GitHub 开发的首个 Chrome Github代码查看](http://link.zhihu.com/?target=https%3A//github.com/jawil/blog/issues/28)
 
 
-## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 
 
 
 
