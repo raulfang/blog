@@ -439,7 +439,7 @@ HTML5 重点
 
 
 
-## [webpack](http://link.zhihu.com/?target=http%3A//blog.csdn.net/Wbiokr/article/category/6932942) 【扫盲】
+## [webpack](http://link.zhihu.com/?target=http%3A//blog.csdn.net/Wbiokr/article/category/6932942) 
 ## [webpack 从入门到工程实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjEwNTQ4Mw%3D%3D%26mid%3D2651577617%26idx%3D1%26sn%3D5d74f835ccb4e8070c2a03a215ee199e%26chksm%3D8cd9c3f5bbae4ae3fbca8d88c7b5844a3bc7b5b8e2277200932074c26765ac04f4dfbc37637c%23rd)
 
 ## [Webpack你的包](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/webpack-your-bags-921.html)
