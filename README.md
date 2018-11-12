@@ -451,8 +451,7 @@ HTML5 重点
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
 
 
-
-## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)  
 
 ## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
 
