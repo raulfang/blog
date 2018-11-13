@@ -391,7 +391,7 @@ HTML5 重点
 
 
 
-## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 
 
 ## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
 
