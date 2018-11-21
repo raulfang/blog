@@ -387,7 +387,7 @@ HTML5 重点
 
 
 
-## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
+## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d)  
 
 
 
@@ -429,12 +429,12 @@ HTML5 重点
 
 
 
-## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)   
 
 
-## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
+## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  
 
-## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
+## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) 
 
 
 
