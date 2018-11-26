@@ -815,17 +815,13 @@ HTML5 重点
 
 ## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
-##                                                                          Vue：
+
 
 ## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
 
 
 
-## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 
-## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
-
-## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
 
 
 
