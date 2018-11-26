@@ -305,10 +305,6 @@ HTML5 重点
 
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 
 
-
-
-
-
 ## Webpack   
 ## [Webpack 打包优化之速度篇](http://link.zhihu.com/?target=http%3A//jeffjade.com/2017/08/12/125-webpack-package-optimization-for-speed/)
 
@@ -560,13 +556,11 @@ HTML5 重点
 
 ## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
 
-## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/)  
 
 
 
 ## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 
-
-
 
 ## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
 
@@ -599,11 +593,11 @@ HTML5 重点
 
 
 
-## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)   
 
-## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
+## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483)       
 
-## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  【扫盲】
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)   
 
 ## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
 
@@ -611,7 +605,7 @@ HTML5 重点
 
 ## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
 
-## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
+## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)   
 
 ## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
 
@@ -626,9 +620,9 @@ HTML5 重点
 
 ## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
 
-## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)  【干货】
+## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)   
 
-## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)  
 
 ## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
 
@@ -836,15 +830,7 @@ HTML5 重点
 
 
 ##     Webpack
-## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
-## [关于Promise](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/6bb01e492eec)
 
-## [彻底掌握Promise](http://link.zhihu.com/?target=https%3A//juejin.im/post/597724c26fb9a06bb75260e8)
-
-## [从零实现一个简单的 Promise](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010410543)
-
-## [八段代码彻底掌握 Promise](http://link.zhihu.com/?target=https%3A//juejin.im/post/597724c26fb9a06bb75260e8)
-## [ES6 Generator 基础指南](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010532908)
 ## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
