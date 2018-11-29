@@ -2,6 +2,7 @@
 web前端学习资源分享
 转载自：
 ## [前端学习之路](http://link.zhihu.com/?target=https%3A//segmentfault.com/blog/weblive)  
+## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
 ## [前端基础面试题](https://zhuanlan.zhihu.com/p/28415923)
 ## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 
@@ -13,12 +14,11 @@ web前端学习资源分享
 ## [个人分享--web前端学习资源分享 - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c1956f265da430a501f51%23comment)
 ## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 
 ## [在浏览器中输入一个url，敲击回车之后发生了啥](http://link.zhihu.com/?target=https%3A//crazybay.github.io/2017/07/15/%25E5%259C%25A8%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E4%25B8%25AD%25E8%25BE%2593%25E5%2585%25A5%25E4%25B8%2580%25E4%25B8%25AAurl%25EF%25BC%258C%25E6%2595%25B2%25E5%2587%25BB%25E5%259B%259E%25E8%25BD%25A6%25E4%25B9%258B%25E5%2590%258E%25E5%258F%2591%25E7%2594%259F%25E4%25BA%2586%25E5%2595%25A5/)
-
 ##移动开发
 target=https%3A//github.com/libin1991/rx-hub)
 ## [移动 Web 开发问题和优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c4c9d85188254f58412d17)
 ## [深入理解 JavaScript 数据双向绑定](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMjYyMzg3MA%3D%3D%26mid%3D2247484289%26idx%3D2%26sn%3De1d9664d24d7b44bcece7464318a8369%26chksm%3De82be290df5c6b86f08fa80a5b33e4a3d46daa1093290610d63b47f86f5bdd7d21151b91dd8f%26mpshare%3D1%26scene%3D1%26srcid%3D0729j5j6rb7i2Ugqp5Wei0kT%23rd)
-## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
+
 ## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html)  
 ## [笔试题](http://link.zhihu.com/?target=https%3A//github.com/xiaoyu2er/blog/issues)
 ## [2017前端面试题及答案总结|掘金技术征文](http://link.zhihu.com/?target=https%3A//juejin.im/post/59be99a0f265da0644289dde)
@@ -119,7 +119,7 @@ CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhih
 
 【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
 [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995)
-【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+ 
  [史上最全面、最透彻的BFC原理剖析](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/BFC%25E5%258E%259F%25E7%2590%2586%25E5%2589%2596%25E6%259E%2590/README.md)
 
 ## CSS之特效：
@@ -400,8 +400,6 @@ HTML5 重点
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
  
 
-
-
 ## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
 
 ##  Webpack
@@ -485,8 +483,6 @@ HTML5 重点
 ## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
 
 
-
-
 ## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 
 
 ## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
@@ -495,9 +491,7 @@ HTML5 重点
 
 ## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
 
-
 ## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 
-
 
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
 
@@ -1142,7 +1136,6 @@ HTML5 重点
 ## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 
 
-## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
 
 ##                           Webpack
 
@@ -1151,9 +1144,6 @@ HTML5 重点
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
 
-
-
- 
 
 ## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
 
@@ -1164,10 +1154,6 @@ HTML5 重点
 ## [67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)[BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
 
 ## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
-
-
-
-
 
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
 
@@ -1181,8 +1167,6 @@ HTML5 重点
 
 ## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
 
-
-
 ## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
 
 
@@ -1190,7 +1174,6 @@ HTML5 重点
 ## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
 
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons)
-
 
 ## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
 
@@ -1335,11 +1318,7 @@ HTML5 重点
 
 ## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
  
- 
-
 ## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
-
- 
 
 ## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
@@ -1356,13 +1335,10 @@ HTML5 重点
 [基于Vue的组织架构树组件 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a265ed551882531ba10cce8)
 
 
-
-
 ## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
 
 ## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
 ## [读 Zepto 源码，分析 Zepto 源码](http://link.zhihu.com/?target=https%3A//github.com/yeyuqiudeng/reading-zepto)
-
 
 [空对象动态添加属性（面试常考）返回JSON，曾经惨败的一道面试题 - 黄沙百战穿金甲，不破楼兰终不还。 - CSDN博客](http://link.zhihu.com/?target=http%3A//blog.csdn.net/libin_1/article/details/51438112)
 
@@ -1377,10 +1353,7 @@ HTML5 重点
 [JSONP的P是什么？](https://zhuanlan.zhihu.com/p/31670664)
 
 [【小程序踩坑】 扫普通二维码调起小程序bug:码地址传递错误，传为历史地址](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a27b0c4f265da430d57e35e)
-
-
-[vue-cli打包后的思索--代码优化](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012249890)【****】
-
+[vue-cli打包后的思索--代码优化](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012249890)
 
 [手摸手，带你优雅的使用 icon](http://link.zhihu.com/?target=https%3A//juejin.im/post/59bb864b5188257e7a427c09)
 
@@ -1388,9 +1361,7 @@ HTML5 重点
 
 [你可能不知道的14个JavaScript调试技巧 - WEB前端开发 - 专注前端开发，关注用户体验](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8468)
 
-
-
-[个人总结（css3新特性） - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c184c51882531926e4294)【***】
+[个人总结（css3新特性） - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c184c51882531926e4294)
 
 [《前端面试江湖》读书笔记 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2211835188252abc5e2b25)
 
@@ -1477,8 +1448,6 @@ HTML5 重点
 [打造一个优雅的微信文章编辑器 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a36834c518825258b74193e)
 
 [DOMContentLoaded、readystatechange、load、ready详谈 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a36499551882529c70f34b5)
-
-
 
 [用canvas绘制一个曲线动画--深入理解贝塞尔曲线 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a410224518825094862c32f)
 
@@ -1617,9 +1586,6 @@ HTML5 重点
 
 
 
-
-
-
 ## [Tree-Shaking性能优化实践 - 实践篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a4dca1d518825128654fa78)
 
 ## [Tree-Shaking性能优化实践 - 原理篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a4dc842518825698e7279a9)
@@ -1644,8 +1610,6 @@ HTML5 重点
 [学习Less-看这篇就够了 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2bc28f6fb9a044fe464b19)
 
 [再谈 CSS 预处理器 | EFE Tech](http://link.zhihu.com/?target=http%3A//efe.baidu.com/blog/revisiting-css-preprocessors/)
-
-
 
 ## 小程序：
 
