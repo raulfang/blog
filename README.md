@@ -641,7 +641,7 @@ HTML5 重点
 
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 
-##                                                                   面试
+##      面试
 
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
@@ -753,7 +753,7 @@ HTML5 重点
 
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
-## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
+## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 
 
 ## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
 
