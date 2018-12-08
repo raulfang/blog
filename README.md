@@ -55,7 +55,6 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
 
 ## [670个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)
- 
 
 ## [当你想监听DOM时，不尝试用一下 MutationObserver 吗？](http://link.zhihu.com/?target=https%3A//ljf0113.github.io/2017/08/12/why-not-try-to-use-MutationObserver/)
 ## [BetterScroll：可能是目前最好用的移动端滚动插件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59dc572c6fb9a0450f20e40e)
@@ -194,7 +193,7 @@ HTML5 重点
 ## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
 [你必须知道的HTTP基本概念 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2de1ba6fb9a04528466da5)
 
-## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
+
 [https://juejin.im/post/5a1d4e546fb9a0450f21af23](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a1d4e546fb9a0450f21af23)
 ## [HTTP协议详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/li0803/archive/2008/11/03/1324746.html)  
 ## [HTTP中的状态码](http://link.zhihu.com/?target=http%3A//alloween.top/2017/07/29/HTTP%25E4%25B8%25AD%25E7%259A%2584%25E7%258A%25B6%25E6%2580%2581%25E7%25A0%2581/)
@@ -293,7 +292,7 @@ HTML5 重点
 
 ## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
 
-## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
+
 
 ## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral)  
 
@@ -371,11 +370,6 @@ HTML5 重点
 
 ## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
 
-## [https://github.com/microzz](http://link.zhihu.com/?target=https%3A//github.com/microzz)
-
-## [https://lenshen.com/](http://link.zhihu.com/?target=https%3A//lenshen.com/)
-
-## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
 
 ## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
 
@@ -395,7 +389,7 @@ HTML5 重点
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
  
 
-## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
 
 ##  Webpack
 
@@ -731,7 +725,7 @@ HTML5 重点
 
 ## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
 
-## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
+
 
 ## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
 
@@ -749,7 +743,6 @@ HTML5 重点
 
 ## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
 
-## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
 
 ## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
 
@@ -834,7 +827,8 @@ HTML5 重点
 ## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
 
 ## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
-
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
 ## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
 
 ## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
