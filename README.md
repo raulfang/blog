@@ -133,6 +133,7 @@ CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhih
 ## [CSS 写作建议和性能优化小结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9ca9c6fb9a00a6b6e7e09)
 ## [用CSS让你的文字更有文艺范](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/19/%25E7%2594%25A8CSS%25E8%25AE%25A9%25E4%25BD%25A0%25E7%259A%2584%25E6%2596%2587%25E5%25AD%2597%25E6%259B%25B4%25E6%2596%2587%25E8%2589%25BA/)
 
+## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 ## [CSS常见布局解决方案 - 王郝 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/qianduantuanzhang/p/8228418.html)
 ##[基于css的优雅的用户跟踪技术](http://link.zhihu.com/?target=https%3A//github.com/jbtronics/CrookedStyleSheets/blob/master/docs/README.zh.md)
 
@@ -757,11 +758,7 @@ HTML5 重点
 
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
 
-##          React：
-
-## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
-
-## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+ 9a00a636a207e)
 
 ## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
 
@@ -773,23 +770,7 @@ HTML5 重点
 
 ## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
 
-## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
-
-## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
-
-## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
-
-## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
-
-## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
-
-## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
-
-## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
-
-## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
-
-## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
+ 
 
 ## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
@@ -1018,7 +999,7 @@ HTML5 重点
      
     
 
-## [读 Zepto 源码 ](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+ 
 
 ## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
 
@@ -1079,11 +1060,9 @@ HTML5 重点
 
 ## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
 
-##                                                                         React：
+##                                                                       
 
-## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
-
-## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+ 
 
 ## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
 
@@ -1103,14 +1082,7 @@ HTML5 重点
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)   
 
-## [jQuery源码学习总结](http://link.zhihu.com/?target=https%3A//github.com/ttian226/learn_jquery)
 
-
-## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
-## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276)  
-## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  
-## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
-## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)   
 ## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 
 
