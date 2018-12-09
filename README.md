@@ -497,8 +497,6 @@ HTML5 重点
 ## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
 
 
-    
-
  
 
 ## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
@@ -673,7 +671,7 @@ HTML5 重点
 
 ## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
 
-## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329) 
 
 ## [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
 
