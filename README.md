@@ -1382,7 +1382,7 @@ HTML5 重点
 
 ## [zuopf769/notebook](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/%25E7%25A7%25BB%25E5%258A%25A8%25E7%25AB%25AF%25E5%25A6%2582%25E4%25BD%2595%25E5%25BC%25BA%25E5%2588%25B6%25E9%25A1%25B5%25E9%259D%25A2%25E6%25A8%25AA%25E5%25B1%258F/README.md)[666]
 
-## [Aaaaaaaty/Blog](http://link.zhihu.com/?target=https%3A//github.com/Aaaaaaaty/Blog)【666】
+## [Aaaaaaaty/Blog](http://link.zhihu.com/?target=https%3A//github.com/Aaaaaaaty/Blog)
 
 [移动端如何强制页面横屏](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/%25E7%25A7%25BB%25E5%258A%25A8%25E7%25AB%25AF%25E5%25A6%2582%25E4%25BD%2595%25E5%25BC%25BA%25E5%2588%25B6%25E9%25A1%25B5%25E9%259D%25A2%25E6%25A8%25AA%25E5%25B1%258F/README.md)
 
