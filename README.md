@@ -678,7 +678,7 @@ HTML5 重点
 
 ## [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
 
-## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 
 
 ## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
 
@@ -692,7 +692,7 @@ HTML5 重点
 
 ## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 
-## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 
 
 ## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
 
@@ -767,7 +767,7 @@ HTML5 重点
 
 ## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
 
-## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 
 
 ## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
 
@@ -809,7 +809,7 @@ HTML5 重点
 ## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
 
 ## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
-## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 
 ## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
 ## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
 
