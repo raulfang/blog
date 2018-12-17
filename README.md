@@ -119,7 +119,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 [水墨寒的博客](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)你不知道的CSS
 CSS自定义属性:[坚定地使用 CSS Custom Properties](https://zhuanlan.zhihu.com/p/32205555)
 
-【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！
 [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995)
  
  [史上最全面、最透彻的BFC原理剖析](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/BFC%25E5%258E%259F%25E7%2590%2586%25E5%2589%2596%25E6%259E%2590/README.md)
