@@ -733,9 +733,9 @@ HTML5 重点
 
 ## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
 
-## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
+## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3)  
 
-## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
+## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral)  
 
 
 ## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
