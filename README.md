@@ -527,9 +527,6 @@ HTML5 重点
 
 ## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
 
-
-
-
 ## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral)
 
 ## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 
@@ -863,7 +860,7 @@ HTML5 重点
 
 ## [如何使用GitHub Pages在线加载静态网页](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/28/%25E5%25A6%2582%25E4%25BD%2595%25E4%25BD%25BF%25E7%2594%25A8GitHub-Pages%25E5%259C%25A8%25E7%25BA%25BF%25E5%258A%25A0%25E8%25BD%25BD%25E9%259D%2599%25E6%2580%2581%25E7%25BD%2591%25E9%25A1%25B5/)
 
-## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
 
 ## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
 
