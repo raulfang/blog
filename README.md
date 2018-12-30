@@ -651,7 +651,7 @@ HTML5 重点
 
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
 
-## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew)  
 
 ## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
 
@@ -663,13 +663,13 @@ HTML5 重点
 
 ## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
 
-## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h)  
 
 ## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)
 
-## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html)  
 
-## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
+## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)   
 
 ## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329) 
 
