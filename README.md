@@ -685,7 +685,7 @@ HTML5 重点
 
 
 
-## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
+## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 
 
 ## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
 
