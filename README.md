@@ -643,7 +643,7 @@ HTML5 重点
 
 ## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
 
-## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  
 
 ## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
 
