@@ -40,9 +40,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [极简风格个人博客](http://link.zhihu.com/?target=http%3A//karma-hk.com%3A4011/%23/)
 ## [blog](http://link.zhihu.com/?target=https%3A//github.com/Xing-Chuan/blog)
 ## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
-
-
-                                                           
+                                                        
 ## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
 
 ## [微醺岁月](http://link.zhihu.com/?target=https%3A//github.com/jawil)
@@ -76,7 +74,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  
 ## [手机端页面自适应解决方案—rem布局进阶版（附源码示例）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/985d26b40199)
 
-## [用css让一个容器水平垂直居中 - 最骚的就是你 - 博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/libin-1/p/5869430.html)
+## [用css让一个容器水平垂直居中  博客园](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/libin-1/p/5869430.html)
 ## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483)      
 ## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  
 ## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 
