@@ -324,10 +324,7 @@ HTML5 重点
 
 ## [webpack：从入门到真实项目配置](http://link.zhihu.com/?target=https%3A//juejin.im/post/59bb37fa6fb9a00a554f89d2)
 
-
-
 ## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
-
 
 ## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
 
@@ -537,7 +534,7 @@ HTML5 重点
 
 
 
-## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 
+## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁!）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 
 
 ## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
 
