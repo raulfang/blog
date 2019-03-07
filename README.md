@@ -89,8 +89,7 @@ target=https%3A//github.com/libin1991/rx-hub)
 ##[现代浏览器性能优化-CSS篇 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a461f006fb9a0450408358f)
 ##[浏览器中的图像识别 API](https://link.zhihu.com/?target=https%3A//qiutc.me/post/shape-detection-api.html)
 
-
-## CSS：
+CSS
 ## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 
 ##[深入CSS优先级](http://link.zhihu.com/?target=http%3A//ghmagical.com/article/page/id/ote3wHDxzIHS)
 ##[display的32种写法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012833458)
