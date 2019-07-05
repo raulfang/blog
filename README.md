@@ -180,7 +180,7 @@ HTML5 重点
 [HTML5 录音的踩坑之旅](http://link.zhihu.com/?target=http%3A//blog.wengwang.me/Font-end/Font-end/HTML5-%25E5%25BD%2595%25E9%259F%25B3%25E7%259A%2584%25E8%25B8%25A9%25E5%259D%2591%25E4%25B9%258B%25E6%2597%2585/) 
 [Git提交历史的修改删除合并 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a30c1786fb9a045211eb218)
 
-## HTTP：wqwqwwq
+## HTTP
 ## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
 [你必须知道的HTTP基本概念 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2de1ba6fb9a04528466da5)
 
