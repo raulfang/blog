@@ -1,4 +1,5 @@
 
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 
 实现高度动态化的 web 应用的重要手段，就是通过修改 DOM 来响应用户操作（我们vue和react 就是利用虚拟DOM，diff算法来实现的）
 
 属性和特性并不是共享一个相同的值，虽然 HTML DOM 的原生特性，通常都能被属性表示， 但是元素上我们放置的自定义特性，并不能被自动元素属性表示，访问这些自定义属性值，我们需要使用 DOM 方法的 getAttribute（） 和 setAttribute（）
