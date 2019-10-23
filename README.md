@@ -56,8 +56,8 @@ target=https%3A//github.com/libin1991/rx-hub)
 ## [前端常见跨域解决方案（全）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011145364)
 ## [为什么 call 比 apply 快？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c0e13b5188257e7a428a83)
 ## [小技巧|移动端网页调试神器Eruda使用技巧](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/10/16/erdua/)
-## [H5页面中尝试调起APP - qize - 博客园](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/zqzjs/p/7504236.html)
-
+## [H5页面中尝试调启动APP-qize-博客园] （https://link.zhihu.com/?target=http%3A//www.cnblogs.com/zqzjs/p/7504236.html）
+1
 
 ##   CSS
 ## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
