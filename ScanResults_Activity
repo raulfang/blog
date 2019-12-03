@@ -1,0 +1,1366 @@
+package thoth.scmapp.assets_check;
+
+import java.util.HashMap;
+import java.util.LinkedList;
+
+import com.google.gson.JsonObject;
+import com.rscja.utility.StringUtility;
+import com.zebra.adc.decoder.Barcode2DWithSoft;
+
+import android.app.Activity;
+import android.app.Dialog;
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
+import android.text.Spannable;
+import android.text.SpannableStringBuilder;
+import android.text.TextUtils;
+import android.text.style.ForegroundColorSpan;
+import android.util.Log;
+import android.view.KeyEvent;
+import android.view.View;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
+import android.widget.CompoundButton.OnCheckedChangeListener;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.ProgressBar;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import my.function_library.Controls.AutoPagingListView;
+import my.function_library.Controls.EntityAdapter;
+import my.function_library.Controls.EntityAdapter.OnBindDataToViewListener;
+import my.function_library.HelperClass.DownNetWorkHelper.SuccessListener;
+import my.function_library.HelperClass.HelperManager;
+import my.function_library.HelperClass.Model.CustormDialog;
+import my.function_library.HelperClass.Model.DefaultErrorListener;
+import my.function_library.HelperClass.Model.DefaultSuccessListener;
+import my.function_library.HelperClass.Model.MasterActivity;
+import my.function_library.Receiver.ScannerReceiver;
+import my.function_library.Receiver.ScannerReceiver.ScannerReceiver_onReceive;
+import thoth.scmapp.R;
+import thoth.scmapp.utils.ScannerInterface;
+import thoth.scmapp.model.Assets;
+import thoth.scmapp.model.Drop_Down_Item;
+import thoth.scmapp.utils.DropDownSources;
+import thoth.scmapp.utils.MipcaActivityCapture;
+import thoth.scmapp.utils.PubUtils;
+import thoth.scmapp.utils.ScaningDeviceBarcode_CW;
+import thoth.scmapp.utils.ScaningDeviceBarcode_ZL;
+import thoth.scmapp.utils.ScaningDeviceRFID_CW;
+import thoth.scmapp.utils.ScaningDeviceRFID_ZL;
+import thoth.scmapp.utils.ScanningDevice;
+import thoth.scmapp.utils.ScanningDevice.DeviceResult;
+
+/**
+ * 扫描结果界面
+ *
+ * @author LIN
+ */
+public class ScanResults_Activity extends MasterActivity {
+
+    private String mType = "Create", mSCM_PDA_CAM_SCAN;
+    private Button Settings_Button, Sumbit_Button;
+    private ImageView Back_ImageView, iv_sys;
+    private AutoPagingListView Assets_ListView;
+    private LinkedList<Assets> mData = new LinkedList<Assets>();
+    private LinkedList<Assets> mSource_Data = new LinkedList<Assets>();
+    private EntityAdapter<Assets> adapter;
+    private TextView Title_TextView, Tx_TextView, Edit_TextView, AllSelect_TextView, tv_scantype_content;
+    private LinearLayout ll_scantype;
+    /**
+     * 清查科室ID和清查科室名称
+     */
+    private String mCheck_Dept_ID, mCheck_Dept_Name;
+    private ScannerReceiver mScannerReceiver;
+    private final int BatchSettings_Change = 1, Product_Change = 2, SCANNIN_GREQUEST_CODE = 3;
+    /**
+     * 是否变化
+     */
+    private boolean isChange = false, isScanEnd = true;
+    private CustormDialog mConfig;
+    private int v_001, v_002;
+    /**
+     * 选择的清查台账ID
+     */
+    private String mSelectAssetsID;
+    private ScaningDeviceBarcode_CW mReaderBarcode;
+    private ScaningDeviceRFID_CW mReaderRFID;
+    private String mSaoMaBind;
+    private boolean isKeyPressFlag = false;
+
+    private ScaningDeviceRFID_ZL mReaderRFID_ZL;
+    private ScaningDeviceBarcode_ZL mReaderBarcode_ZL;
+    private Button  Start_Scan;
+    //iScan part
+    ScannerInterface scanner;
+    IntentFilter intentFilter;
+    BroadcastReceiver scanReceiver;
+    private static final String RES_ACTION = "android.intent.action.SCANRESULT";
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        // TODO 自动生成的方法存根
+        setStatusBarColorResource(R.color.titlecolor);
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_scanresults);
+        Start_Scan=(Button) this.findViewById(R.id.Start_Scan);
+        Settings_Button = (Button) this.findViewById(R.id.Settings_Button);
+        Sumbit_Button = (Button) this.findViewById(R.id.Sumbit_Button);
+        Back_ImageView = (ImageView) this.findViewById(R.id.Back_ImageView);
+        iv_sys = (ImageView) this.findViewById(R.id.iv_sys);
+        Assets_ListView = (AutoPagingListView) this.findViewById(R.id.Assets_ListView);
+        Title_TextView = (TextView) this.findViewById(R.id.Title_TextView);
+        Tx_TextView = (TextView) this.findViewById(R.id.Tx_TextView);
+        Edit_TextView = (TextView) this.findViewById(R.id.Edit_TextView);
+        AllSelect_TextView = (TextView) this.findViewById(R.id.AllSelect_TextView);
+        tv_scantype_content = (TextView) this.findViewById(R.id.tv_scantype_content);
+        ll_scantype = (LinearLayout) this.findViewById(R.id.ll_scantype);
+
+        Back_ImageView.setOnClickListener(Back_ImageView_Click);
+        iv_sys.setOnClickListener(iv_sys_Click);
+        Edit_TextView.setOnClickListener(Edit_TextView_Click);
+        AllSelect_TextView.setOnClickListener(AllSelect_TextView_Click);
+        Settings_Button.setOnClickListener(Settings_Button_Click);
+        Sumbit_Button.setOnClickListener(Sumbit_Button_Click);
+        ll_scantype.setOnClickListener(ll_scantype_Click);
+        Start_Scan.setOnClickListener(mStart_Scan_Click);
+        mConfig = HelperManager.getDialogHelper().getCustormDialog(this, "系统提示", "退出后已设置的操作无效，确定要退出么?", true, R.layout.confimdialog_prompt, R.style.CustormDialog_Mask);
+        mSaoMaBind = HelperManager.getAppConfigHelper().getDataString("saomabind", "0");
+        init();
+        if ("1".equals(mSaoMaBind)) {
+            ll_scantype.setVisibility(View.VISIBLE);
+        } else if ("2".equals(mSaoMaBind)) {
+            ll_scantype.setVisibility(View.VISIBLE);
+            Start_Scan.setVisibility(View.VISIBLE);
+        }
+    }
+
+    public void init() {
+        v_001 = this.loadVoice(R.raw.v_001, 1);
+        v_002 = this.loadVoice(R.raw.v_002, 1);
+        Intent intent = this.getIntent();
+        mCheck_Dept_ID = intent.getStringExtra("check_dept_id");
+        mCheck_Dept_Name = intent.getStringExtra("check_dept_name");
+        Assets assets = (Assets) intent.getSerializableExtra("assets");
+        if (assets != null) {
+            mData.add(assets);
+            mSelectAssetsID = assets.ASSETS_ID;
+        }
+        //源临时数据，用于扫描得到数据时进行快速查找和比对，减少服务器压力
+		/*if(TemporaryData.getAssetsList().size()>0){
+			mSource_Data= TemporaryData.getAssetsList();
+		}*/
+        adapter = new EntityAdapter<Assets>(this, mData, R.layout.listitem_assetscheck, onBindDataToViewListener);
+        Assets_ListView.setAdapter(adapter);
+
+        // 为了界面不变，兼容东大扫描机
+        if (ScanningDevice.getSington().checkServiceAndDevice() == 1) {
+            ll_scantype.setVisibility(View.VISIBLE);
+
+        } else {
+            ll_scantype.setVisibility(View.GONE);
+        }
+        //下移
+        int scantype = intent.getIntExtra("scantype", 0);
+        //int tv_asset_scan= intent.getIntExtra("tv_asset_scan", 0);
+
+        if (scantype == 0) {
+            tv_scantype_content.setText("条码");
+            tv_scantype_content.setTag("");
+            Start_Scan.setText("开始扫码清查");
+            Start_Scan.setTag("BARCODE");
+        } else {
+            tv_scantype_content.setText("RFID");
+            tv_scantype_content.setTag("RFID");
+            Start_Scan.setText("开始RFID清查");
+            Start_Scan.setTag("RFID");
+        }
+
+
+        ll_scantype.setTag("" + scantype);
+        refresh();
+        mSCM_PDA_CAM_SCAN = HelperManager.getAppConfigHelper().getDataString("scm_pda_cam_scan", "0");
+        if ("1".equals(mSCM_PDA_CAM_SCAN)) {
+            iv_sys.setVisibility(View.VISIBLE);
+        }
+    }
+
+    public void refresh() {
+        int count = 0;
+        for (int i = 0; i < mData.size(); i++) {
+            //正规数据
+            if (mData.get(i).isSearch == 1 && !TextUtils.isEmpty(mData.get(i).PRODUCT_NAME)) {
+                count++;
+            }
+        }
+        Tx_TextView.setText("当前科室:" + mCheck_Dept_Name + "\n已清查到" + count + "条,请扫描继续清查");
+    }
+
+    /**
+     * 绑定数据
+     */
+    OnBindDataToViewListener onBindDataToViewListener = new OnBindDataToViewListener() {
+
+        @Override
+        public void OnBindDataToView(int position, Object data, View v) {
+            Assets assets = (Assets) data;
+            LinearLayout llayout_scantext = (LinearLayout) v.findViewById(R.id.llayout_scantext);
+            RelativeLayout rlayout_assetscontent = (RelativeLayout) v.findViewById(R.id.rlayout_assetscontent);
+            ImageView iv_progress = (ImageView) v.findViewById(R.id.iv_progress);
+            ProgressBar pb_progress = (ProgressBar) v.findViewById(R.id.pb_progress);
+            TextView tv_scantext = (TextView) v.findViewById(R.id.tv_scantext);
+            TextView tv_tixing = (TextView) v.findViewById(R.id.tv_tixing);
+            CheckBox check = (CheckBox) v.findViewById(R.id.check);
+            TextView product_name = (TextView) v.findViewById(R.id.product_name);
+            TextView serial_code = (TextView) v.findViewById(R.id.serial_code);
+            TextView acc_type_tv = (TextView) v.findViewById(R.id.acc_type);
+            TextView spec_name = (TextView) v.findViewById(R.id.spec_name);
+            TextView dept_name = (TextView) v.findViewById(R.id.dept_name);
+            TextView check_dept_name = (TextView) v.findViewById(R.id.check_dept_name);
+            TextView remark_tv = (TextView) v.findViewById(R.id.remark);
+            if (assets != null) {
+                //如果合格的数据
+                if (assets.isSearch == 1 && !TextUtils.isEmpty(assets.PRODUCT_NAME)) {
+                    llayout_scantext.setVisibility(View.GONE);
+                    rlayout_assetscontent.setVisibility(View.VISIBLE);
+                    //编辑状态则显示复选框，进行多选
+                    if (mType.equals("Edit")) {
+                        check.setVisibility(View.VISIBLE);
+                        //是否选中
+                        if (assets.isChecked == 1) {
+                            check.setChecked(true);
+                        } else {
+                            check.setChecked(false);
+                        }
+                    } else {
+                        check.setVisibility(View.GONE);
+                        assets.isChecked = 0;
+                    }
+                    product_name.setText((position + 1) + "." + assets.PRODUCT_NAME);
+                    serial_code.setText(assets.SERIAL_CODE);
+                    spec_name.setText(assets.SPEC_NAME);
+                    dept_name.setText("(使用)" + assets.DEPT_NAME);
+                    if (TextUtils.isEmpty(assets.CHECK_DEPT_NAME)) {
+                        check_dept_name.setText("");
+                    } else {
+                        check_dept_name.setText("(清查)" + assets.CHECK_DEPT_NAME);
+                    }
+                    dept_name.setTextColor(getResources().getColor(R.color.black));
+                    if (!assets.DEPT_NAME.equals(mCheck_Dept_Name)) {
+                        dept_name.setTextColor(getResources().getColor(R.color.red));
+                    }
+                    //备注信息
+                    String remark = "";
+                    if (!TextUtils.isEmpty(assets.USERDEPT_NAME)) {
+                        remark += " " + assets.USERDEPT_NAME + " |";
+                    }
+                    if (!TextUtils.isEmpty(assets.USER_NAME)) {
+                        remark += " " + assets.USER_NAME + " |";
+                    }
+                    if (!TextUtils.isEmpty(assets.USERADD)) {
+                        remark += " " + assets.USERADD + " |";
+                    }
+                    Drop_Down_Item item = new Drop_Down_Item();
+                    item.Value = assets.COMMENT_STATE;
+                    int i = DropDownSources.indexOf(item, DropDownSources.getComment_State());
+                    if (i != -1) {
+                        remark += " " + DropDownSources.getComment_State().get(i).Name + " |";
+                    }
+                    if (!TextUtils.isEmpty(assets.IDENTIFICATION_NO)) {
+                        remark += " " + assets.IDENTIFICATION_NO + " |";
+                    }
+                    if (remark.length() > 1) {
+                        remark = remark.substring(0, remark.length() - 1);
+                    }
+                    remark_tv.setText(remark);
+                    if (TextUtils.isEmpty(remark)) {
+                        remark_tv.setVisibility(View.GONE);
+                    } else {
+                        remark_tv.setVisibility(View.VISIBLE);
+                    }
+                    String text = "";
+                    ForegroundColorSpan foreSpan = new ForegroundColorSpan(getResources().getColor(R.color.black));
+                    if (assets.ACC_TYPE == 1) {
+                        text = "固定资产";
+                    } else if (assets.ACC_TYPE == 2) {
+                        text = "低值易耗";
+                    } else if (assets.ACC_TYPE == 3) {
+                        text = "消耗材料";
+                    }
+                    int index = DropDownSources.indexOf(assets.USE_STATE, DropDownSources.getUse_State());
+                    if (index != -1) {
+                        text += "(" + DropDownSources.getUse_State().get(index).Name + ")";
+                    }
+                    int start = text.length();
+                    if (assets.CHECK_FLAG == 0) {
+                        text += " 未清查";
+                        foreSpan = new ForegroundColorSpan(getResources().getColor(R.color.red));
+                    } else {
+                        text += " 已清查";
+                        //清查科室和使用科室不同
+                        if (!assets.DEPT_NAME.equals(assets.CHECK_DEPT_NAME)) {
+                            if (assets.ZK_FLAG == 0) {
+                                text += "(保留)";
+                            } else {
+                                text += "(转科)";
+                            }
+                            check_dept_name.setVisibility(View.VISIBLE);
+                        } else {
+                            check_dept_name.setVisibility(View.GONE);
+                        }
+                        foreSpan = new ForegroundColorSpan(getResources().getColor(R.color.green));
+                    }
+                    SpannableStringBuilder builder = new SpannableStringBuilder(text);
+                    builder.setSpan(foreSpan, start, text.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                    acc_type_tv.setText(builder);
+
+                    check.setTag(assets);
+                    check.setOnCheckedChangeListener(onCheckedChangeListener);
+                    v.setTag(assets);
+                    v.setOnClickListener(Assets_ListView_ItemClick);
+                }
+                //不是合格的
+                else {
+                    llayout_scantext.setVisibility(View.VISIBLE);
+                    rlayout_assetscontent.setVisibility(View.GONE);
+                    //查询过，找不到资产信息
+                    if (assets.isSearch == 1) {
+                        iv_progress.setVisibility(View.VISIBLE);
+                        pb_progress.setVisibility(View.GONE);
+                        if (TextUtils.isEmpty(assets.NETWORK_MSG)) {
+                            tv_tixing.setText("找不到符合信息!");
+                        } else {
+                            tv_tixing.setText(assets.NETWORK_MSG);
+                        }
+                    }
+                    //未查询过
+                    else {
+                        pb_progress.setVisibility(View.VISIBLE);
+                        iv_progress.setVisibility(View.GONE);
+                        tv_tixing.setText("正在查找...");
+                    }
+                    //扫描数据可能存在ASSETS_ID也可能存在SERIAL_CODE,看哪种扫描方式了
+                    String text = assets.ASSETS_ID;
+                    if (TextUtils.isEmpty(text)) {
+                        text = assets.SERIAL_CODE;
+                    }
+                    tv_scantext.setText(text);
+                    v.setTag(assets);
+                    v.setOnClickListener(Assets_ListView_ItemClick);
+                }
+                if (!TextUtils.isEmpty(mSelectAssetsID) && mSelectAssetsID.equals(assets.ASSETS_ID)) {
+                    v.setBackgroundResource(R.drawable.layer_list_number_border_1);
+                } else {
+                    v.setBackgroundColor(getResources().getColor(R.color.transparent));
+                }
+            }
+        }
+    };
+    /**
+     * 值变化
+     */
+    OnCheckedChangeListener onCheckedChangeListener = new OnCheckedChangeListener() {
+
+        @Override
+        public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+            // TODO 自动生成的方法存根
+            Assets assets = (Assets) buttonView.getTag();
+            if (assets != null) {
+                if (isChecked) {
+                    assets.isChecked = 1;
+                } else {
+                    assets.isChecked = 0;
+                }
+            }
+        }
+
+    };
+    /**
+     * ListView Item项点击
+     */
+    View.OnClickListener Assets_ListView_ItemClick = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            Assets assets = (Assets) v.getTag();
+            if (assets != null) {
+                //合格的条码信息
+                if (assets.isSearch == 1 && !TextUtils.isEmpty(assets.PRODUCT_NAME)) {
+                    //编辑
+                    if (mType.equals("Edit")) {
+                        CheckBox check = (CheckBox) v.findViewById(R.id.check);
+                        check.toggle();
+                    } else {
+                        Intent intent = new Intent();
+                        intent.putExtra("type", "Edit");
+                        intent.putExtra("assets", assets);
+                        intent.putExtra("assets_id", assets.ASSETS_ID);
+                        intent.putExtra("check_dept_id", mCheck_Dept_ID);
+                        intent.putExtra("check_dept_name", mCheck_Dept_Name);
+                        intent.setClass(ScanResults_Activity.this, Product_Activity.class);
+                        ScanResults_Activity.this.startActivityForResult(intent, Product_Change);
+                    }
+                } else {
+                    //由于可能服务器交互错误,重新查找
+                    assets.isSearch = 0;
+                    getAssetsNetWork(assets.ASSETS_ID, null, 1);
+                }
+                mSelectAssetsID = assets.ASSETS_ID;
+                adapter.notifyDataSetChanged();
+            }
+        }
+    };
+    /**
+     * 返回登录页面
+     */
+    View.OnClickListener Back_ImageView_Click = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            if (isChange) {
+                mConfig.show();
+                mConfig.setViewClickListener(R.id.ok, new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        // TODO 自动生成的方法存根
+                        finish();
+                    }
+                });
+            } else {
+                finish();
+            }
+        }
+    };
+
+    @Override
+    public void onBackPressed() {
+        Back_ImageView.callOnClick();
+    }
+
+    /**
+     * 编辑点击
+     */
+    View.OnClickListener Edit_TextView_Click = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            /**
+             * 如果RFID模式没关闭先关闭
+             */
+            if (mReaderRFID_ZL != null) {
+                mReaderRFID_ZL.stopRFID();
+                mReaderRFID_ZL.closeRFID();
+                mReaderRFID_ZL = null;
+            }
+
+            // TODO 自动生成的方法存根
+            if (mData.size() == 0) {
+                Toast.makeText(ScanResults_Activity.this, "没有数据不能批量编辑!", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            mType = "Edit";
+            adapter.notifyDataSetChanged();
+            Edit_TextView.setVisibility(View.GONE);
+            Start_Scan.setVisibility(View.GONE);
+            Settings_Button.setVisibility(View.VISIBLE);
+            Sumbit_Button.setText("返回");
+            AllSelect_TextView.setVisibility(View.VISIBLE);
+            Back_ImageView.setVisibility(View.GONE);
+            iv_sys.setVisibility(View.GONE);
+
+        }
+    };
+    /**
+     * 全选点击
+     */
+    View.OnClickListener AllSelect_TextView_Click = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            // TODO 自动生成的方法存根
+            if (AllSelect_TextView.getText().equals("全选")) {
+                for (Assets item : mData) {
+                    if (item.isSearch == 1 && !TextUtils.isEmpty(item.PRODUCT_NAME)) {
+                        item.isChecked = 1;
+                    }
+                }
+                AllSelect_TextView.setText("取消全选");
+            } else {
+                for (Assets item : mData) {
+                    if (item.isSearch == 1 && !TextUtils.isEmpty(item.PRODUCT_NAME)) {
+                        item.isChecked = 0;
+                    }
+                }
+                AllSelect_TextView.setText("全选");
+            }
+            adapter.notifyDataSetChanged();
+        }
+    };
+    /**
+     * 批量设置按钮
+     */
+    View.OnClickListener Settings_Button_Click = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            boolean isChecked = false;
+            for (int i = 0; i < mData.size(); i++) {
+                if (mData.get(i).isChecked == 1) {
+                    isChecked = true;
+                    break;
+                }
+            }
+            if (!isChecked) {
+                Toast.makeText(ScanResults_Activity.this, "请先选择行!", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            Intent intent = new Intent();
+            intent.setClass(ScanResults_Activity.this, BatchSettings_Activity.class);
+            ScanResults_Activity.this.startActivityForResult(intent, BatchSettings_Change);
+        }
+    };
+    /**
+     * 扫描模式点击
+     */
+    View.OnClickListener ll_scantype_Click = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            int type = Integer.parseInt((String) v.getTag());
+            //RFID
+            if (type == 0) {
+                tv_scantype_content.setText("RFID");
+                v.setTag("1");
+                ScanningDevice.getSington().stopBarcode();
+                //开启超高频
+                ScanningDevice.getSington().startUhf();
+
+                if ("1".equals(mSaoMaBind)) {
+                    if (mReaderBarcode != null) {
+                        mReaderBarcode.close();
+                        mReaderBarcode = null;
+                    }
+                } else if ("2".equalsIgnoreCase(mSaoMaBind)) {//智联
+                    //先关掉扫描二维码
+                    if (mReaderBarcode_ZL != null) {
+                        mReaderBarcode_ZL.close();
+                        mReaderBarcode_ZL = null;
+                    }
+                }
+                tv_scantype_content.setTag("RFID");
+
+                Start_Scan.setText("开始RFID清查");
+                Start_Scan.setTag("RFID");
+            }
+            //条码
+            else {
+                tv_scantype_content.setText("条码");
+                v.setTag("0");
+                ScanningDevice.getSington().stopUhf();
+                //开启条码
+                ScanningDevice.getSington().startBarcode();
+
+                if ("1".equals(mSaoMaBind)) {
+                    if ("1".equals(mSaoMaBind)) {
+                        if (mReaderRFID != null) {
+                            mReaderRFID.stopRFID();
+                            mReaderRFID.closeRFID();
+                            mReaderRFID = null;
+                        }
+                    }
+                }
+                if ("2".equalsIgnoreCase(mSaoMaBind)) {//智联
+                    if (mReaderRFID_ZL != null) {
+                        mReaderRFID_ZL.stopRFID();
+                        mReaderRFID_ZL.closeRFID();
+                        mReaderRFID_ZL = null;
+                    }
+                }
+                tv_scantype_content.setTag("BARCODE");
+                Start_Scan.setText("扫码清查");
+                Start_Scan.setTag("BARCODE");
+            }
+        }
+    };
+    /**
+     * 扫一扫按钮点击
+     */
+    View.OnClickListener iv_sys_Click = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            Intent intent = new Intent();
+            intent.setClass(ScanResults_Activity.this, MipcaActivityCapture.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+            ScanResults_Activity.this.startActivityForResult(intent, SCANNIN_GREQUEST_CODE);
+        }
+    };
+    /**
+     * 提交按钮点击
+     */
+    View.OnClickListener Sumbit_Button_Click = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            //返回
+            if (Sumbit_Button.getText().toString().equals("返回")) {
+                mType = "Create";
+                adapter.notifyDataSetChanged();
+                Edit_TextView.setVisibility(View.VISIBLE);
+                Settings_Button.setVisibility(View.GONE);
+                Sumbit_Button.setText("提交");
+                AllSelect_TextView.setVisibility(View.GONE);
+                Back_ImageView.setVisibility(View.VISIBLE);
+                if ("1".equals(mSCM_PDA_CAM_SCAN)) {
+                    iv_sys.setVisibility(View.VISIBLE);
+                }
+            }
+            //提交
+            else {
+                int count = 0;
+                //数据验证
+                for (int i = 0; i < mData.size(); i++) {
+                    Assets item = mData.get(i);
+                    //正规数据则判断
+                    if (item.isSearch == 1 && !TextUtils.isEmpty(item.PRODUCT_NAME)) {
+                        if (item.CHECK_FLAG == 0) {
+                            if (!item.DEPT_ID.equals(mCheck_Dept_ID)) {
+                                Assets_ListView.setSelection(i);
+                                Toast.makeText(ScanResults_Activity.this, "发现不是本科室的设备,还未做清查设置!", Toast.LENGTH_SHORT).show();
+                                return;
+                            }
+                        }
+                        count++;
+                    }
+                }
+                if (count == 0) {
+                    Toast.makeText(ScanResults_Activity.this, "没有发现清查信息不能提交!", Toast.LENGTH_SHORT).show();
+                    return;
+                }
+                //验证通过进行提交
+                String checks = "[";
+                for (int i = 0; i < mData.size(); i++) {
+                    Assets item = mData.get(i);
+                    //正规数据则判断
+                    if (item.isSearch == 1 && !TextUtils.isEmpty(item.PRODUCT_NAME)) {
+                        if (item.CHECK_FLAG == 0) {
+                            item.CHECK_FLAG = 1;
+                            item.CHECK_DEPT_ID = mCheck_Dept_ID;
+                            item.CHECK_DEPT_NAME = mCheck_Dept_Name;
+                        }
+                        if (checks.length() > 1) {
+                            checks += ",";
+                        }
+                        if (TextUtils.isEmpty(item.COMMENT_STATE) && DropDownSources.getComment_State().size() > 0) {
+                            item.COMMENT_STATE = DropDownSources.getComment_State().get(0).Value;
+                            item.COMMENT_NAME = DropDownSources.getComment_State().get(0).Name;
+                        }
+                        checks += "{\"user_id\":\"" + (TextUtils.isEmpty(item.USER_ID) ? "" : item.USER_ID) + "\",\"user_name\":\"" + (TextUtils.isEmpty(item.USER_NAME) ? "" : item.USER_NAME) +
+                                "\",\"dept_id\":\"" + item.CHECK_DEPT_ID + "\",\"dept_name\":\"" + item.CHECK_DEPT_NAME + "\",\"zk_flag\":" + item.ZK_FLAG + ",\"assets_id\":\"" +
+                                item.ASSETS_ID + "\",\"useradd\":\"" + (TextUtils.isEmpty(item.USERADD) ? "" : item.USERADD) + "\",\"userdept_id\":\"\",\"userdept_name\":\"" +
+                                (TextUtils.isEmpty(item.USERDEPT_NAME) ? "" : HelperManager.getFormatHelper().escapeJava(item.USERDEPT_NAME)) + "\",\"identification_no\":\"" +
+                                (TextUtils.isEmpty(item.IDENTIFICATION_NO) ? "" : HelperManager.getFormatHelper().escapeJava(item.IDENTIFICATION_NO)) + "\",\"comment_state\":\"" +
+                                (TextUtils.isEmpty(item.COMMENT_STATE) ? "" : item.COMMENT_STATE) + "\",\"comment_name\":\"" +
+                                (TextUtils.isEmpty(item.COMMENT_NAME) ? "" : item.COMMENT_NAME) + "\",\"remarks\":\"" + (TextUtils.isEmpty(item.REMARKS) ? "" : HelperManager.getFormatHelper().escapeJava(item.REMARKS)) + "\"}";
+                    }
+                }
+                checks += "]";
+                adapter.notifyDataSetChanged();
+                Submit(checks);
+            }
+        }
+    };
+
+    /**
+     * 提交
+     *
+     * @param checks 清查数据集合
+     */
+    public void Submit(String checks) {
+        String server_url = HelperManager.getAppConfigHelper().getDataString(getResources().getString(R.string.server_url), "")
+                + getResources().getString(R.string.assets_check_savechecks);
+        String store_id = HelperManager.getAppConfigHelper().getDataString("store_id", "");
+        String position_id = HelperManager.getAppConfigHelper().getDataString("position_id", "");
+        HashMap<String, String> parms = new HashMap<String, String>();
+        parms.put("hospital_id", HelperManager.getAppConfigHelper().getDataString("hospital_id", ""));
+        if (!TextUtils.isEmpty(store_id)) {
+            parms.put("store_id", store_id);
+        }
+        if (!TextUtils.isEmpty(position_id)) {
+            parms.put("position_id", position_id);
+        }
+        parms.put("checks", checks);
+        parms.put("operate_id", HelperManager.getAppConfigHelper().getDataString("user_id", ""));
+        parms.put("operate_name", HelperManager.getAppConfigHelper().getDataString("user_name", ""));
+
+        Dialog mDialog = ScanResults_Activity.this.showLoadingCustormDialog();
+        HelperManager.getSubmitNetWorkHelper().postString(server_url, parms, Submit_Success, new DefaultErrorListener(mDialog));
+    }
+
+    /**
+     * 数据成功返回
+     */
+    SuccessListener<String> Submit_Success = new SuccessListener<String>() {
+
+        @Override
+        public void onResponse(String arg0) {
+            JsonObject json = DefaultSuccessListener.getJsonObjectRules(arg0);
+            if (json == null) {
+                ScanResults_Activity.this.playVoice(v_002);
+                ScanResults_Activity.this.dismissCustormDialog();
+                return;
+            }
+            Intent intent = new Intent();
+            intent.putExtra("assets_list", HelperManager.getEntityHelper().toString(mData));
+            setResult(Activity.RESULT_OK, intent);
+            Toast.makeText(ScanResults_Activity.this, "提交成功", Toast.LENGTH_SHORT).show();
+            //声音播放不能直接关闭，不然声音播放不出，需要延迟1秒关闭页面
+            ScanResults_Activity.this.playVoice(v_001, new Runnable() {
+                @Override
+                public void run() {
+                    // TODO 自动生成的方法存根
+                    ScanResults_Activity.this.finish();
+                    ScanResults_Activity.this.dismissCustormDialog();
+                }
+            }, 1200);
+        }
+    };
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (resultCode == Activity.RESULT_OK) {
+            switch (requestCode) {
+                //批量设置修改
+                case BatchSettings_Change:
+                    for (Assets assets : mData) {
+                        if (assets.isChecked == 1) {
+                            if (!assets.DEPT_ID.equals(mCheck_Dept_ID)) {
+                                assets.ZK_FLAG = data.getIntExtra("zk_flag", 0);
+                            } else {
+                                assets.ZK_FLAG = 0;
+                            }
+                            assets.USERDEPT_NAME = data.getStringExtra("usedept_name");
+                            assets.USER_ID = data.getStringExtra("user_id");
+                            assets.USER_NAME = data.getStringExtra("user_name");
+                            assets.USERADD = data.getStringExtra("useradd");
+                            assets.COMMENT_STATE = data.getStringExtra("comment_state");
+                            assets.COMMENT_NAME = data.getStringExtra("comment_name");
+                            assets.CHECK_DEPT_ID = mCheck_Dept_ID;
+                            assets.CHECK_DEPT_NAME = mCheck_Dept_Name;
+                            assets.CHECK_FLAG = 1;
+                        }
+                    }
+                    adapter.notifyDataSetChanged();
+                    break;
+                //单个操作物资变化
+                case Product_Change:
+                    Assets assets = (Assets) data.getSerializableExtra("assets");
+                    if (assets != null) {
+                        for (Assets item : mData) {
+                            if (item.ASSETS_ID.equals(assets.ASSETS_ID)) {
+                                item.updateEntity(assets);
+                                break;
+                            }
+                        }
+                    }
+                    adapter.notifyDataSetChanged();
+                    break;
+                //扫一扫扫描结果返回
+                case SCANNIN_GREQUEST_CODE:
+                    Bundle bundle = data.getExtras();
+                    if (bundle == null) return;
+                    ScanningBarcode(bundle.getString("result"));
+                    break;
+            }
+            isChange = true;
+        }
+    }
+    @Override
+    protected void onStart() {
+        super.onStart();
+        if("00280".equals(HelperManager.getAppConfigHelper().getDataString("hospital_id", "")) ){
+            initScanner();
+        }
+    }
+    @Override
+    public void onResume() {
+        // 注册广播监听
+        mScannerReceiver = HelperManager.getBroadcastReceiverHelper().getScannerReceiver(scannerReceiver_onReceive);
+        mScannerReceiver.registerReceiver(this);
+        mScannerReceiver.sendEnabled(this, true);
+
+        ScanningDevice.getSington().setDeviceResult(deviceResult);
+
+        super.onResume();
+    }
+
+    DeviceResult deviceResult = new DeviceResult() {
+
+        @Override
+        public void MSG_KEY_DOWN() {
+            // TODO 自动生成的方法存根
+        }
+
+        @Override
+        public void MSG_KEY_UP() {
+            // TODO 自动生成的方法存根
+
+        }
+
+        @Override
+        public void SCANNING_DATE(Message msg) {
+            Bundle bundle = msg.getData();
+            Assets assets = new Assets();
+            HashMap<String, String> data = (HashMap<String, String>) bundle.getSerializable(ScanningDevice.DATA);
+            String epc = data.get(ScanningDevice.ITEM_EPC);
+            if (TextUtils.isEmpty(epc)) {
+                return;
+            }
+            epc = epc.trim().toUpperCase();
+            //扫到的是assets_id,排除掉垃圾条码，减少交互
+            if (epc.length() < 10 || epc.length() > 14) {
+                return;
+            }
+            if (!epc.substring(0, 2).equals("TT")) {
+                return;
+            }
+            epc = epc.substring(2, epc.length());
+            assets.ASSETS_ID = epc;
+            assets.isSearch = 0;
+            //在源临时数据中未找到，则添加并服务器查找，减少服务器压力
+            int position = indexOfByID(assets.ASSETS_ID, mSource_Data);
+            if (position == -1) {
+                mData.add(assets);
+                mSource_Data.add(assets);
+                adapter.notifyDataSetChanged();
+                getAssetsNetWork(assets.ASSETS_ID, null, 1);
+            } else {
+                int j = indexOfByID(assets.ASSETS_ID, mData);
+                //如果扫的是本科室的，并且还未添加到扫描页面，那么则从临时数据源中取
+                if (j == -1) {
+                    Assets assetes_new = mSource_Data.get(position);
+                    assetes_new.isSearch = 1;
+                    mData.add(0, assetes_new);
+                    adapter.notifyDataSetChanged();
+                    refresh();
+                }
+            }
+        }
+
+        @Override
+        public void MSG_DATA_BARCODE(Message msg) {
+            // TODO 自动生成的方法存根
+            String barcode = msg.obj.toString();
+            if (TextUtils.isEmpty(barcode)) {
+                Toast.makeText(ScanResults_Activity.this, "该条码为空!", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            ScanningBarcode(barcode);
+        }
+
+    };
+
+    /**
+     * 扫描仪扫描广播接受
+     */
+    ScannerReceiver_onReceive scannerReceiver_onReceive = new ScannerReceiver_onReceive() {
+
+        @Override
+        public void onReceive(Context context, Intent request) {
+            // TODO 自动生成的方法存根
+            // 获取扫描结果
+            String result = request.getStringExtra(ScannerReceiver.KEY_DATA);
+            if (TextUtils.isEmpty(result)) {
+                Toast.makeText(ScanResults_Activity.this, "该条码为空!", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            ScanningBarcode(result);
+        }
+    };
+
+    /**
+     * 条码扫描到数据信息
+     *
+     * @param barcode 条码
+     */
+    public void ScanningBarcode(String barcode) {
+        if (TextUtils.isEmpty(barcode)) {
+            return;
+        }
+        if (!isScanEnd) {
+            Toast.makeText(ScanResults_Activity.this, "正在查找请耐心等待!", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        barcode = barcode.trim();
+        String serial_code = PubUtils.getSerialCode(barcode);
+        if (!TextUtils.isEmpty(serial_code)) {
+            barcode = serial_code;
+        }
+        if (TextUtils.isEmpty(barcode)) {
+            Toast.makeText(ScanResults_Activity.this, "该条码中找不到相应的台账编号信息!", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        int position = indexOf(barcode, mData);
+        if (position != -1) {
+            mSelectAssetsID = mData.get(position).ASSETS_ID;
+            adapter.notifyDataSetChanged();
+            Assets_ListView.setSelection(position);
+            Toast.makeText(ScanResults_Activity.this, "列表中已有该台账!", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        isScanEnd = false;
+        getAssetsNetWork(null, barcode, 0);
+    }
+
+    /**
+     * 根据档案编号进行查找，查找不到返回-1
+     */
+    public int indexOfByID(String assets_id, LinkedList<Assets> rows) {
+        if (rows == null) {
+            return -1;
+        }
+        for (int i = 0; i < rows.size(); i++) {
+            if (TextUtils.isEmpty(rows.get(i).ASSETS_ID)) {
+                continue;
+            }
+            if (rows.get(i).ASSETS_ID.equals(assets_id)) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    /**
+     * 根据档案编号进行查找，查找不到返回-1
+     */
+    public int indexOf(String serial_code, LinkedList<Assets> rows) {
+        if (rows == null) {
+            return -1;
+        }
+        for (int i = 0; i < rows.size(); i++) {
+            if (TextUtils.isEmpty(rows.get(i).SERIAL_CODE)) {
+                continue;
+            }
+            /*if (rows.get(i).SERIAL_CODE.equals(serial_code)) {
+                return i;
+            }*/
+            if(rows.get(i).SERIAL_CODE.contains("|")){
+                if (rows.get(i).SERIAL_CODE.substring(0,rows.get(i).SERIAL_CODE.indexOf("|")).equals(serial_code)) {
+                    Log.e("str",rows.get(i).SERIAL_CODE.substring(0,rows.get(i).SERIAL_CODE.indexOf("|")));
+                    return i;
+                }
+                String str1=rows.get(i).SERIAL_CODE.substring(0,rows.get(i).SERIAL_CODE.indexOf("|"));
+                if (rows.get(i).SERIAL_CODE.substring(str1.length()+1,rows.get(i).SERIAL_CODE.length()).equals(serial_code)) {
+                    return i;
+                }
+            }
+
+
+        }
+        return -1;
+    }
+
+    /**
+     * 查找错误数据索引，查找不到返回0
+     */
+    public int indexOfError(LinkedList<Assets> rows) {
+        if (rows == null) {
+            return 0;
+        }
+        int i = 0;
+        for (i = 0; i < rows.size(); i++) {
+            if (rows.get(i).isSearch == 1 && !TextUtils.isEmpty(rows.get(i).PRODUCT_NAME)) {
+                continue;
+            }
+            break;
+        }
+        return i;
+    }
+
+    /**
+     * 获取服务器台账信息
+     *
+     * @param assets_id   台账ID
+     * @param serial_code 台账编号
+     * @param isUhf       是否超高频,0:不是,1:是
+     */
+    public void getAssetsNetWork(String assets_id, String serial_code, final int isUhf) {
+        String store_id = HelperManager.getAppConfigHelper().getDataString("store_id", "");
+        String position_id = HelperManager.getAppConfigHelper().getDataString("position_id", "");
+        String server_url = HelperManager.getAppConfigHelper().getDataString(getResources().getString(R.string.server_url), "")
+                + getResources().getString(R.string.assets_check_check_info);
+        HashMap<String, String> parms = new HashMap<String, String>();
+        parms.put("hospital_id", HelperManager.getAppConfigHelper().getDataString("hospital_id", ""));
+        if (!TextUtils.isEmpty(assets_id)) {
+            parms.put("assets_id", assets_id);
+        }
+        if (!TextUtils.isEmpty(serial_code)) {
+            parms.put("serial_code", serial_code);
+        }
+        if (!TextUtils.isEmpty(store_id)) {
+            parms.put("store_id", store_id);
+        }
+        if (!TextUtils.isEmpty(position_id)) {
+            parms.put("position_id", position_id);
+        }
+        System.out.println("SCAN_RESULT:" + server_url + "   |   " + parms.toString());
+        Dialog mDialog = null;
+        if (isUhf == 0) {
+            mDialog = ScanResults_Activity.this.showLoadingCustormDialog();
+        }
+        HelperManager.getDownNetWorkHelper().postString(server_url, parms, new ScannerReceiver_Success(isUhf, assets_id), new DefaultErrorListener(mDialog) {
+
+            @Override
+            public <T extends Exception> void ErrorResponse(T error) {
+                if (isUhf == 0) {
+                    isScanEnd = true;
+                }
+                // TODO 自动生成的方法存根
+                super.ErrorResponse(error);
+            }
+
+        });
+    }
+
+    /**
+     * 扫描仪扫描成功返回
+     */
+    private class ScannerReceiver_Success implements SuccessListener<String> {
+
+        //是否超高频,0:不是,1：是
+        public int mIsUhf;
+        public String mAssets_ID;
+
+        public ScannerReceiver_Success(int isUhf, String assets_id) {
+            mIsUhf = isUhf;
+            mAssets_ID = assets_id;
+        }
+
+        @Override
+        public void onResponse(String arg0) {
+            if (mIsUhf == 0) {
+                isScanEnd = true;
+            }
+            JsonObject json = DefaultSuccessListener.getJsonObjectRules(arg0, 0);
+            if (json == null) {
+                if (mIsUhf == 0) {
+                    ScanResults_Activity.this.dismissCustormDialog();
+                } else {
+                    //服务器出错很多原因，该条码可能是对的，需要点击继续扫描
+                    int position = indexOfByID(mAssets_ID, mData);
+                    if (position != -1) {
+                        Assets assets = mData.get(position);
+                        assets.isSearch = 1;
+                        adapter.notifyDataSetChanged();
+                    }
+                }
+                return;
+            }
+            if (json.get("flag").getAsBoolean()) {
+                JsonObject data = json.getAsJsonObject("data");
+                Assets assets = HelperManager.getEntityHelper().toEntity(data, Assets.class);
+                assets.isSearch = 1;
+                if (mIsUhf == 0) {
+                    mData.add(0, assets);
+                    mSelectAssetsID = assets.ASSETS_ID;
+                    adapter.notifyDataSetChanged();
+                    Assets_ListView.setSelection(0);
+                } else {
+                    //找到则进行移动,更新
+                    int position = indexOfByID(assets.ASSETS_ID, mData);
+                    if (position != -1) {
+                        Assets assets_new = mData.get(position);
+                        assets_new.updateEntity(assets);
+                        mData.remove(position);
+                        mData.add(0, assets_new);
+                        adapter.notifyDataSetChanged();
+                    }
+                }
+            } else {
+                if (mIsUhf == 0) {
+                    Toast.makeText(ScanResults_Activity.this, "" + json.get("msg").getAsString(), Toast.LENGTH_SHORT).show();
+                } else {
+                    int position = indexOfByID(mAssets_ID, mData);
+                    if (position != -1) {
+                        Assets assets = mData.get(position);
+                        assets.isSearch = 1;
+                        assets.NETWORK_MSG = json.get("msg").getAsString();
+                        adapter.notifyDataSetChanged();
+                    }
+                }
+            }
+            refresh();
+            if (mIsUhf == 0) {
+                ScanResults_Activity.this.dismissCustormDialog();
+            }
+        }
+    }
+
+    ;
+
+    @Override
+    protected void onPause() {
+        ScanResults_Activity.this.dismissCustormDialog();
+        if (mScannerReceiver != null) {
+            // 禁用扫描头
+            mScannerReceiver.unregisterReceiver(this);
+        }
+        ScanningDevice.getSington().setDeviceResult(null);
+        if ("1".equals(mSaoMaBind)) {
+            if (mReaderBarcode != null) {
+                mReaderBarcode.close();
+                mReaderBarcode = null;
+            } else if (mReaderRFID != null) {
+                mReaderRFID.stopRFID();
+                mReaderRFID.closeRFID();
+                mReaderRFID = null;
+            }
+        } else if ("2".equalsIgnoreCase(mSaoMaBind)) {
+            if (mReaderBarcode_ZL != null) {
+                mReaderBarcode_ZL.close();
+                mReaderBarcode_ZL = null;
+            } else if (mReaderRFID_ZL != null) {
+                mReaderRFID_ZL.stopRFID();
+                mReaderRFID_ZL.closeRFID();
+                mReaderRFID_ZL = null;
+            }
+        }
+
+        super.onPause();
+    }
+
+    @Override
+    protected void onDestroy() {
+        if ("1".equals(mSaoMaBind)) {
+            if (mReaderBarcode != null) {
+                mReaderBarcode.close();
+                mReaderBarcode = null;
+            } else if (mReaderRFID != null) {
+                mReaderRFID.stopRFID();
+                mReaderRFID.closeRFID();
+                mReaderRFID = null;
+            }
+        } else if ("2".equalsIgnoreCase(mSaoMaBind)) {
+            if (mReaderBarcode_ZL != null) {
+                mReaderBarcode_ZL.close();
+                mReaderBarcode_ZL = null;
+            } else if (mReaderRFID_ZL != null) {
+                mReaderRFID_ZL.stopRFID();
+                mReaderRFID_ZL.closeRFID();
+                mReaderRFID_ZL = null;
+            }
+
+
+        }
+        super.onDestroy();
+        //TemporaryData.clearAssetsList();
+    }
+
+    public Barcode2DWithSoft.ScanCallback mScanCallback = new Barcode2DWithSoft.ScanCallback() {
+        @Override
+        public void onScanComplete(int i, int length, byte[] data) {
+            if (length < 1) {
+                return;
+            }
+            String barCode = new String(data);
+			/*if (!barCode.isEmpty()) {
+				SoundManage.PlaySound(MainActivity.this, SoundType.SUCCESS);
+			}*/
+            ScanningBarcode(barCode);
+        }
+    };
+
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+
+        if (keyCode == 139 || keyCode == 280) {
+            if (event.getRepeatCount() == 0) {
+                if ("1".equals(mSaoMaBind)) {
+                    if ("RFID".equals((String) tv_scantype_content.getTag())) {
+                        if (!isKeyPressFlag) {
+                            if (mReaderRFID == null) {
+                                mReaderRFID = new ScaningDeviceRFID_CW(ScanResults_Activity.this);
+                                mReaderRFID.initRFID();
+                            }
+                            isKeyPressFlag = true;
+                            mReaderRFID.openRFID(handler);
+                        } else {
+                            if (mReaderRFID != null) {
+                                mReaderRFID.stopRFID();
+                                mReaderRFID.closeRFID();
+                                mReaderRFID = null;
+                            }
+                            isKeyPressFlag = false;
+                        }
+                    } else if ("BARCODE".equals((String) tv_scantype_content.getTag())) {
+                        if (mReaderBarcode == null) {
+                            mReaderBarcode = new ScaningDeviceBarcode_CW(ScanResults_Activity.this, mScanCallback);
+                            mReaderBarcode.open();
+                        }
+                        mReaderBarcode.san();
+                    }
+                } else if ("2".equalsIgnoreCase(mSaoMaBind)) {//2 智联
+                    //try {
+                    if ("RFID".equalsIgnoreCase((String) tv_scantype_content.getTag())) {
+                        if (!isKeyPressFlag) {
+                            if (mReaderRFID_ZL == null) {
+                                mReaderRFID_ZL = new ScaningDeviceRFID_ZL(ScanResults_Activity.this);
+                                mReaderRFID_ZL.initRFID();
+                            }
+                            isKeyPressFlag = true;
+                            mReaderRFID_ZL.openRFID(handler);
+                        } else {
+                            if (mReaderRFID_ZL != null) {
+                                mReaderRFID_ZL.stopRFID();
+                                mReaderRFID_ZL.closeRFID();
+                                mReaderRFID_ZL = null;
+                            }
+                            isKeyPressFlag = false;
+                        }
+                    } else if ("BARCODE".equalsIgnoreCase((String) tv_scantype_content.getTag())) {
+                        if (!isKeyPressFlag) {
+                            if (mReaderBarcode_ZL == null) {
+                                mReaderBarcode_ZL = new ScaningDeviceBarcode_ZL(ScanResults_Activity.this, mScanCallback);
+                                mReaderBarcode_ZL.open();
+                            }
+                            isKeyPressFlag = true;
+                            mReaderBarcode_ZL.scan();
+                        } else {
+                            if (mReaderBarcode_ZL != null) {
+                                mReaderBarcode_ZL.close();
+                                mReaderBarcode_ZL = null;
+                            }
+                            isKeyPressFlag = false;
+                        }
+
+                    }
+                }
+            }
+        }
+        return super.onKeyDown(keyCode, event);
+    }
+
+    /***
+     * 清查按钮
+     */
+    View.OnClickListener  mStart_Scan_Click=new View.OnClickListener() {
+          @Override
+          public void onClick(View view) {
+
+              if ("RFID".equalsIgnoreCase((String) Start_Scan.getTag())&&"开始RFID清查".equalsIgnoreCase(Start_Scan.getText().toString())) {
+                       Start_Scan.setText("关闭RFID清查");
+                      if (mReaderRFID_ZL == null) {
+                          mReaderRFID_ZL = new ScaningDeviceRFID_ZL(ScanResults_Activity.this);
+                          mReaderRFID_ZL.initRFID();
+                      }
+                      mReaderRFID_ZL.setPower(30);       //功率
+                      mReaderRFID_ZL.setFrequencyMode(0);//频段
+                      mReaderRFID_ZL.openRFID(handler);
+
+              }else if("RFID".equalsIgnoreCase((String) Start_Scan.getTag())&&"关闭RFID清查".equalsIgnoreCase(Start_Scan.getText().toString())){
+                  Start_Scan.setText("开始RFID清查");
+                  if (mReaderRFID_ZL != null) {
+                      mReaderRFID_ZL.stopRFID();
+                      mReaderRFID_ZL.closeRFID();
+                      mReaderRFID_ZL = null;
+                  }
+              }
+
+              if ("BARCODE".equalsIgnoreCase((String) Start_Scan.getTag())) {
+                  /**
+                   * 如果RFID模式没关闭先关闭
+                   */
+                  if (mReaderRFID_ZL != null) {
+                      mReaderRFID_ZL.stopRFID();
+                      mReaderRFID_ZL.closeRFID();
+                      mReaderRFID_ZL = null;
+                  }
+                  if (!isKeyPressFlag) {
+                      if (mReaderBarcode_ZL == null) {
+                          mReaderBarcode_ZL = new ScaningDeviceBarcode_ZL(ScanResults_Activity.this, mScanCallback);
+                          mReaderBarcode_ZL.open();
+                      }
+                      isKeyPressFlag = true;
+                      mReaderBarcode_ZL.scan();
+                  } else {
+                      if (mReaderBarcode_ZL != null) {
+                          mReaderBarcode_ZL.close();
+                          mReaderBarcode_ZL = null;
+                      }
+                      isKeyPressFlag = false;
+                  }
+
+              }
+
+          }
+      };
+    Handler handler = new Handler() {
+        @Override
+        public void handleMessage(Message msg) {
+            if (msg.obj != null) {
+                String result = new String(StringUtility.hexStringToBytes(msg.obj.toString().trim()));
+                result = result.toUpperCase();
+                if (result.trim().length() < 12 || result.trim().length() > 18) {
+                } else if ("TT".equals(result.substring(0, 2))) {
+                    Assets assets = new Assets();
+                    assets.ASSETS_ID = result.substring(2);//去掉前面
+                    assets.isSearch = 0;
+                    //在源临时数据中未找到，则添加并服务器查找，减少服务器压力
+                    int position = indexOfByID(assets.ASSETS_ID, mData);
+                    if (position == -1) {
+                        mData.add(assets);
+                        adapter.notifyDataSetChanged();
+                        getAssetsNetWork(assets.ASSETS_ID, null, 1);//高频
+                    }
+                }
+            }
+        }
+    };
+
+
+    /**
+     * 初始化iScan
+     */
+    private void initScanner(){
+        scanner = new ScannerInterface(this);
+        scanner.setOutputMode(1);
+        intentFilter = new IntentFilter();
+        intentFilter.addAction(RES_ACTION);
+        scanReceiver = new ScannerResultReceiver();
+        registerReceiver(scanReceiver, intentFilter);
+    }
+    /**
+     * iScan扫描结果广播接收
+     */
+    private class ScannerResultReceiver extends BroadcastReceiver{
+        public void onReceive(Context context, Intent intent) {
+            final String scanResult = intent.getStringExtra("value");
+            if (intent.getAction().equals(RES_ACTION)){
+                //获取扫描结果
+                if(scanResult.length()>0){
+                    ScanningBarcode(scanResult);
+                    System.out.println("------清查scanResult-Barcode------------"+scanResult);
+                }else{
+                    Toast.makeText(getApplicationContext(), "解码失败！", Toast.LENGTH_SHORT).show();
+                }
+            }
+        }
+    }
+    @Override
+    protected void onStop() {
+        super.onStop();
+        if("00280".equals(HelperManager.getAppConfigHelper().getDataString("hospital_id", "")) ){
+            if (scanReceiver != null) {
+                unregisterReceiver(scanReceiver);
+                scanReceiver = null;
+            }
+        }
+    }
+}
