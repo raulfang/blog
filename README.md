@@ -5,7 +5,7 @@
 ```
 转
 ## [关于http] (https://github.com/raulfang/blog/blob/master/Http.md)
-## [前端学习之路](http://link.zhihu.com/?target=https%3A//segmentfault.com/blog/weblive)  
+## [前端学习之路](https://github.com/raulfang/blog/blob/master/Http.md)  
 ## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
 ## [前端基础面试题](https://zhuanlan.zhihu.com/p/28415923)
 ## [整理《前端江湖面试》对自己有益的题目!](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
