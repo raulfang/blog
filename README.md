@@ -13,6 +13,6 @@
 #### 原理
 * [浏览器兼容方案](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
 ## android
-* [重新认识js的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
+* [android状态栏适配](https://juejin.im/post/5cd85b25e51d453b5854b8ad)
 
 
