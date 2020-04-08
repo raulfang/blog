@@ -1,5 +1,5 @@
 
-## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 
+
 1、js垃圾回收机制
 ```
 js 中的 变量 函数 不再使用后，会被自动js垃圾回收机制回收
