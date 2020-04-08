@@ -4,7 +4,7 @@
 ```
 转
 
-## [关于http](https://github.com/raulfang/blog/blob/master/Http.md)  
+## [关于 http](https://github.com/raulfang/blog/blob/master/Http.md)  
 
 ## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/)
 ## [vi 常用快捷键笔记](http://link.zhihu.com/?target=https%3A//shimo.im/doc/Yx6TR0WqRwADwPDQ)
