@@ -18,7 +18,7 @@
 * [移动端布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
 #### ES6  ES7
-* [ES6  ES7](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA)
+* [ES6&ES7](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA)
 
 ### android
 * [android状态栏适配](https://juejin.im/post/5cd85b25e51d453b5854b8ad)
