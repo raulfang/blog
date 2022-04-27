@@ -20,7 +20,7 @@
 ### ES6  ES7
 * [ES6&ES7](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA)
 
-### Android
+## Android
 * [android状态栏适配](https://juejin.im/post/5cd85b25e51d453b5854b8ad)
 
 
