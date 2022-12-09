@@ -3,7 +3,7 @@
 大道至简
 ```
 
-[生活与工作](https://github.com/raulfang/learnblog/issues/1)  
+* [生活与工作](https://github.com/raulfang/learnblog/issues/1)  
 
 #### 原理
 * [浏览器兼容方案](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
